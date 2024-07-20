@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/suhanikalra/practice-problems/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
