@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/suhanikalra/practice-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/suhanikalra/practice-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/suhanikalra/practice-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suhanikalra/practice-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhanikalra/practice-problems/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
