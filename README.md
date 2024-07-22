@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0328-odd-even-linked-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suhanikalra/practice-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suhanikalra/practice-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/suhanikalra/practice-problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanikalra/practice-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
