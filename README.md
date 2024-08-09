@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,4 +188,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
