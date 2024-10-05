@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/suhanikalra/practice-problems/tree/master/1033-broken-calculator) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Reservoir Sampling
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/suhanikalra/practice-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0206-reverse-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
 ## Matrix
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/suhanikalra/practice-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suhanikalra/practice-problems/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
