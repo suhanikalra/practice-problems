@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/suhanikalra/practice-problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
