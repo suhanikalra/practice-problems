@@ -1,36 +1,44 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int rows= mat.size();
-        int cols = mat[0].size();
+        int row= mat.size();
+        int col= mat[0].size();
+        vector<vector<int>> ans(row,vector<int>(col,-1));
+        queue <pair<int,int>> q;
 
-        vector<vector<int>>dist(rows,vector<int>(cols,INT_MAX));
-        queue<pair<int,int>>q;
-
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                if(mat[i][j]==0){
-                    dist[i][j]=0;
-                    q.push({i,j});
+        for(int i=0;i<row;i++){
+            for (int j=0; j<col;j++){
+                if(mat[i][j]==0){q.push({i,j});
+                ans[i][j]=0;
                 }
             }
         }
 
-        vector<pair<int,int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
         while(!q.empty()){
-            auto [x,y]= q.front();
+            auto p= q.front();
             q.pop();
+            int X=p.first;
+            int Y = p.second;
+            int dx[]={0,1,-1,0};
+            int dy[]={1,0,0,-1};
+            for(int i= 0; i<4;i++){
+            int newx= X+dx[i];
+            int newy= Y+dy[i];
 
-             for (auto dir : directions) {
-                int newX = x + dir.first;
-                int newY = y + dir.second;
+            if(newx<row && newy<col && newx>=0 && newy>=0 && ans[newx][newy]==-1 && mat[newx][newy]==1 ){
+                ans[newx][newy]=ans[X][Y]+1;
+                q.push({newx,newy});
 
-            if (newX >= 0 && newX < rows && newY >= 0 && newY < cols && dist[newX][newY] > dist[x][y] + 1) {
-                     dist[newX][newY] = dist[x][y] + 1;
-                    q.push({newX, newY});
-            }}
+            }
+
+
+
+
+
+
+            }
+
         }
- return dist;
+        return ans;
     }
 };
