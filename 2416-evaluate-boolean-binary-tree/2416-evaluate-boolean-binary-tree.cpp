@@ -14,8 +14,8 @@ public:
     bool evaluateTree(TreeNode* root) {
         if (!root) return false;
         if(!root->left && !root->right) {return root->val==1;}
-        // if(!root->left){ return root->right;}
-        // if (!root->right){ return root->left;}
+         if(!root->left){ return root->right;}
+         if (!root->right){ return root->left;}
 
 
         
