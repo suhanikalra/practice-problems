@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
+| [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
+| [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
