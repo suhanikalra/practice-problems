@@ -31,15 +31,15 @@ public:
             if(temp != nullptr){node->next->random= temp->next;}
             else node->next->random=nullptr;
         }
-auto dummy= new Node(0);
-auto newhead=dummy;
-        for(auto node=head; node !=nullptr;node= node->next ){
-            
-            auto temp=node->next;
-            node->next= temp->next;
-            dummy->next = temp;
-            dummy= dummy->next;
-    
+auto dummy = new Node(0);
+        auto newHead = dummy;
+        for (auto node = head; node != nullptr; node = node->next) {
+            auto clonedNode = node->next;
+            node->next = clonedNode->next;
+            newHead->next = clonedNode;
+            newHead = clonedNode;
+        }
+
+        return dummy->next;
     }
-    return newhead->next;}
 };
