@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/suhanikalra/practice-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
+| [0832-binary-tree-pruning](https://github.com/suhanikalra/practice-problems/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/suhanikalra/practice-problems/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/suhanikalra/practice-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
+| [0832-binary-tree-pruning](https://github.com/suhanikalra/practice-problems/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/suhanikalra/practice-problems/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/suhanikalra/practice-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
+| [0832-binary-tree-pruning](https://github.com/suhanikalra/practice-problems/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/suhanikalra/practice-problems/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/suhanikalra/practice-problems/tree/master/2121-find-if-path-exists-in-graph) |
