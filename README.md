@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1252-break-a-palindrome) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/suhanikalra/practice-problems/tree/master/1033-broken-calculator) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
