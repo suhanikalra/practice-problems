@@ -3,7 +3,7 @@ public:
     bool solve(int n,vector<int>& piles, int h ){
         long long count=0 ;
         for(auto pile: piles){
-            count+= (pile + n - 1) / n;
+            count+= ceil(pile/(n*1.0));
         }
         if (count>h )return false;
         return true;
