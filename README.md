@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
