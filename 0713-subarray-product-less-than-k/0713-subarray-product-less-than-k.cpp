@@ -2,7 +2,7 @@ class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
         int n=nums.size();
-        if(k<=1)return 0;
+      
         long long ans=1,count=0;
         int start=0; int end=0;
         for (end;end<n;end++){
