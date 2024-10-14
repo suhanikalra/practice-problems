@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suhanikalra/practice-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1293-three-consecutive-odds](https://github.com/suhanikalra/practice-problems/tree/master/1293-three-consecutive-odds) |
+| [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1252-break-a-palindrome) |
+| [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
+| [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
@@ -469,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0503-next-greater-element-ii) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
