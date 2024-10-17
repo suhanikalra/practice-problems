@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/suhanikalra/practice-problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/suhanikalra/practice-problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/suhanikalra/practice-problems/tree/master/0904-leaf-similar-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/suhanikalra/practice-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/suhanikalra/practice-problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/suhanikalra/practice-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/suhanikalra/practice-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
@@ -455,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/suhanikalra/practice-problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
+| [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/suhanikalra/practice-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
