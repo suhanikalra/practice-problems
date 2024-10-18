@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/suhanikalra/practice-problems/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/suhanikalra/practice-problems/tree/master/1916-find-center-of-star-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/suhanikalra/practice-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/suhanikalra/practice-problems/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String Matching
 |  |
 | ------- |
@@ -514,4 +517,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
