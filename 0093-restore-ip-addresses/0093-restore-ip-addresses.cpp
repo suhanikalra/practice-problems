@@ -25,8 +25,8 @@ public:
     vector<string> restoreIpAddresses(string s) {
         int n = s.size();
         vector<string> ans;
-        string curr = ""; // Initialize curr as an empty string
-        solve(s, 0, curr, ans, n, 0); // Start from index 0 and segment 0
+        string curr = ""; 
+        solve(s, 0, curr, ans, n, 0); 
         return ans;
     }
 };
