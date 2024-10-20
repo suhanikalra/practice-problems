@@ -1,25 +1,21 @@
 class Solution {
 public:
     void solve(string s, int index, string curr, vector<string>& ans, int n, int segment) {
-        // If we have used all characters and have formed 4 segments
         if (index == n && segment == 4) {
-            curr.pop_back(); // Remove the last dot
+            curr.pop_back(); 
             ans.push_back(curr);
             return;
         }
 
-        // If we have 4 segments already or exceeded string length, return
         if (segment == 4 || index >= n) {
             return;
         }
 
-        // Try to create segments of length 1, 2, and 3
         for (int len = 1; len <= 3; ++len) {
-            if (index + len > n) break; // Prevent out-of-bounds access
+            if (index + len > n) break; 
             string segmentStr = s.substr(index, len);
-            int value = stoi(segmentStr); // Convert substring to integer
+            int value = stoi(segmentStr); 
 
-            // Check if the segment is valid
             if (value <= 255 && !(segmentStr[0] == '0' && segmentStr.size() > 1)) {
                 solve(s, index + len, curr + segmentStr + ".", ans, n, segment + 1);
             }
