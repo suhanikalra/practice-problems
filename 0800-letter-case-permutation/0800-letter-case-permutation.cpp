@@ -25,9 +25,9 @@ public:void solve(string input,string op , vector<string> &output)
 
 
     vector<string> letterCasePermutation(string s) {
-        string input = s;
+       
         string op = "";
         vector<string> output;
-        solve(input,op,output);
+        solve(s,op,output);
         return output;}
 };
