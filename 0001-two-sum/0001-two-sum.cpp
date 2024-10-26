@@ -8,7 +8,7 @@ public:
         }
 
         for(int i=0;i<nums.size();i++){
-            if(mp.find(target-nums[i]) != mp.end() and mp[target-nums[i]] != i ){
+            if(mp.contains(target-nums[i])  and mp[target-nums[i]] != i ){
                 return {i,mp[target-nums[i]]};
             }
         }
