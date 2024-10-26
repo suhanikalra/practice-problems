@@ -16,11 +16,13 @@ public:
                 left++;
             } else {
                 count++;
-                left++;
-                right++;
                
-                while (right < nums.size() && nums[right] == nums[right - 1]) right++;
-                while (left < nums.size() && nums[left] == nums[left - 1]) left++;
+               
+                while (right+1 < nums.size() && nums[right] == nums[right + 1]) right++;
+                while (left+1 < nums.size() && nums[left] == nums[left + 1]) left++;
+
+                 left++;
+                right++;
             }
         }
         
