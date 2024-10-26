@@ -5,18 +5,25 @@ public:
 if(nums.size()<4 )return ans;
         sort(nums.begin(), nums.end());
         for (int i = 0; i < nums.size() - 3; i++) {
-            
+            if(i>0 && nums[i]==nums[i-1])continue;
             for (int j = i + 1; j < nums.size() - 2; j++) {
+                if(j>i+1 && nums[j]==nums[j-1])continue;
              long long temp = target;
                 int start = j + 1;
                 auto end = nums.size() - 1;
+                
                 while (start < end) {
-                    
+                  
                     if (nums[i] + nums[j] == temp-(nums[start] + nums[end] )) {
                         ans.push_back(
                             {nums[i], nums[j], nums[start], nums[end]});
+                             while(start<end and nums[start]==nums[start+1]){
+                        start++;}
+                    while( start<end and nums[end]== nums[end-1]){end--;}
                         start++;
                         end--;
+                        
+
                     } else {
                         if (nums[i] + nums[j]  >
                             temp- (nums[start] + nums[end]))
@@ -24,17 +31,12 @@ if(nums.size()<4 )return ans;
                         else
                             start++;
                     }
+
+                     
                 }
             }
         }
-        set<vector<int>> st;
-        for (auto s : ans) {
-            st.insert(s);
-        }
-        ans.clear();
-        for (auto s : st) {
-            ans.push_back(s);
-        }
+      
 
         return ans;
     }
