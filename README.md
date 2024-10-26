@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/suhanikalra/practice-problems/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
