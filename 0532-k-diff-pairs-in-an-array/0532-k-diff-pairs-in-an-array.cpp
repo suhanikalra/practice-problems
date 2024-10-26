@@ -9,7 +9,7 @@ public:
         int left = 0;
         int right = 1;
 
-        while (right < nums.size()) {
+        while (left<=right and right<nums.size()) {
             if (left == right || nums[right] - nums[left] < k) {
                 right++;
             } else if (nums[right] - nums[left] > k) {
