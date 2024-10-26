@@ -20,6 +20,7 @@ public:
                 right++;
                
                 while (right < nums.size() && nums[right] == nums[right - 1]) right++;
+                while (left < nums.size() && nums[left] == nums[left - 1]) left++;
             }
         }
         
