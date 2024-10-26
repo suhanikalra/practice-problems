@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/suhanikalra/practice-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suhanikalra/practice-problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suhanikalra/practice-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/suhanikalra/practice-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suhanikalra/practice-problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/suhanikalra/practice-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suhanikalra/practice-problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
