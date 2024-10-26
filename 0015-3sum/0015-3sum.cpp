@@ -1,34 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> res;
         sort(nums.begin(), nums.end());
-
-        for (int i = 0; i < nums.size(); i++) {
-            if (i > 0 && nums[i] == nums[i-1]) {
+        vector<vector<int>> ans;
+        vector<int> result;
+        for (int i = 0; i < nums.size() - 2; i++) {
+            int start = i + 1;
+            int end = nums.size() - 1;
+            if (i > 0 && nums[i] == nums[i - 1])
                 continue;
-            }
-            
-            int j = i + 1;
-            int k = nums.size() - 1;
-
-            while (j < k) {
-                int total = nums[i] + nums[j] + nums[k];
-
-                if (total > 0) {
-                    k--;
-                } else if (total < 0) {
-                    j++;
-                } else {
-                    res.push_back({nums[i], nums[j], nums[k]});
-                    j++;
-
-                    while (nums[j] == nums[j-1] && j < k) {
-                        j++;
-                    }
+            while (start < end) {
+                if (nums[start] + nums[end] == -nums[i]) {
+                    result.push_back(nums[i]);
+                    result.push_back(nums[start]);
+                    result.push_back(nums[end]);
+                    ans.push_back(result);
+                    result.clear();
                 }
+                if (nums[start] + nums[end] > -nums[i])
+                    end--;
+                else
+                    start++;
             }
         }
-        return res;        
+        set<vector<int>> st;
+        for (auto s : ans) {
+            st.insert(s);
+        }
+        ans.clear();
+        for (auto s : st) {
+            ans.push_back(s);
+        }
+
+        return ans;
     }
 };
