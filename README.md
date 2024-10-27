@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suhanikalra/practice-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/suhanikalra/practice-problems/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/suhanikalra/practice-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suhanikalra/practice-problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/suhanikalra/practice-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suhanikalra/practice-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
