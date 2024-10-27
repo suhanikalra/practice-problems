@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/suhanikalra/practice-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/suhanikalra/practice-problems/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1252-break-a-palindrome) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Database
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/suhanikalra/practice-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Combinatorics
