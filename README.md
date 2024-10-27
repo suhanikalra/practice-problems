@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/suhanikalra/practice-problems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/suhanikalra/practice-problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/suhanikalra/practice-problems/tree/master/0981-delete-columns-to-make-sorted) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
