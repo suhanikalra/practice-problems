@@ -10,7 +10,7 @@ public:
             freq[a]++;
         }
 
-        std::priority_queue<int, std::vector<int>, std::greater<int>> minHeap;
+        priority_queue<int, vector<int>, greater<int>> minHeap;
 
         for (const auto& entry : freq) {
             minHeap.push(entry.second);
