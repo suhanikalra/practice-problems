@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //bad approach use minheap
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         vector<int>ans;
@@ -6,17 +6,20 @@ public:
         for(auto num: nums){
             freq[num]++;
         }
- priority_queue<pair<int, int>> maxHeap;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
        
             
        for (const auto& entry : freq) {
-            maxHeap.push({entry.second, entry.first}); 
+            minHeap.push({entry.second, entry.first}); 
+            if(minHeap.size()>k){
+                minHeap.pop();
+            }
         }
 
     
-        for (int i = 0; i < k && !maxHeap.empty(); ++i) {
-            ans.push_back(maxHeap.top().second); 
-            maxHeap.pop();
+        for (int i = 0; i < k && !minHeap.empty(); ++i) {
+            ans.push_back(minHeap.top().second); 
+            minHeap.pop();
         }
 
         return ans; 
