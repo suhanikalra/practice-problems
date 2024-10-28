@@ -24,10 +24,7 @@ public:
                 return currentProb;
             }
 
-            if (currentProb < maxProb[node]) {
-                continue;
-            }
-
+            
             for (auto& neighbor : adj[node]) {
                 int nextNode = neighbor.first;
                 double edgeProb = neighbor.second;
