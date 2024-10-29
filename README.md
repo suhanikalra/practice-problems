@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/suhanikalra/practice-problems/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
+| [0866-rectangle-overlap](https://github.com/suhanikalra/practice-problems/tree/master/0866-rectangle-overlap) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/suhanikalra/practice-problems/tree/master/1033-broken-calculator) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
@@ -616,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/suhanikalra/practice-problems/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
