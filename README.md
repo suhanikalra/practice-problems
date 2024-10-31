@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suhanikalra/practice-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/suhanikalra/practice-problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/suhanikalra/practice-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/suhanikalra/practice-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/suhanikalra/practice-problems/tree/master/0051-n-queens) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/suhanikalra/practice-problems/tree/master/0072-edit-distance) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/suhanikalra/practice-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0503-next-greater-element-ii) |
 ## Trie
