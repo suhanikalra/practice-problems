@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/suhanikalra/practice-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Greedy
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1666-make-the-string-great](https://github.com/suhanikalra/practice-problems/tree/master/1666-make-the-string-great) |
+| [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -652,4 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/suhanikalra/practice-problems/tree/master/0866-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 <!---LeetCode Topics End-->
