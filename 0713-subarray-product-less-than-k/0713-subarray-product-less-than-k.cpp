@@ -1,7 +1,6 @@
 class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
-        ////banao seems tuffff
         int count=0;long long prod=1;
         int start=0;int end=0;
         while(end<nums.size()){
