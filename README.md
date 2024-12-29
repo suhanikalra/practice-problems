@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/suhanikalra/practice-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suhanikalra/practice-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/suhanikalra/practice-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/suhanikalra/practice-problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/suhanikalra/practice-problems/tree/master/0072-edit-distance) |
