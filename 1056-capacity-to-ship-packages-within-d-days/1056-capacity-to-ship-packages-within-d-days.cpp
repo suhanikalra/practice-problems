@@ -1,35 +1,30 @@
 class Solution {
 public:
-bool solve(vector<int>& weights, int days, int n){
-    int sum=0; int count= 1;
-    for(auto weight: weights){
-        sum+=weight;
-        if(sum>n){
-            count++;
-            sum=weight;
+bool solve(int capacity,vector<int>& weights, int days){
+    int currentDay = 1;  
+    int currentLoad = 0;
+    
+    for(auto w : weights){
+        if(w > capacity) return false;  
+        
+        if(currentLoad + w > capacity){
+            currentDay++;  
+            currentLoad = w; 
+        } else {
+            currentLoad += w;
         }
-
     }
-    if (count>days)return false;
-    return true;
+    
+    return currentDay <= days;
 }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low= *max_element(weights.begin(),weights.end());
-        int high = 0;
-        for( auto weight : weights){
-            high +=weight;
-        }
-        int ans= 0;
-        while(low<=high){
-            int mid= low+ (high-low)/2;
+        int start=0;int end = accumulate(weights.begin(), weights.end(), 0);
+int ans=0;
+        while(start<=end){
+            int mid= (end-start)/2+start;
+            if(solve(mid,weights,days)){ans=mid;end= mid-1;}
+            else{start= mid+1;}
 
-            if(solve(weights,days,mid)== true){
-                ans= mid;
-                high = mid-1;
-            }
-            else{
-                low= mid+1;
-            }
         }
         return ans;
     }
