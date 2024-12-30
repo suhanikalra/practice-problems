@@ -1,29 +1,20 @@
 class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
+       int count=0;int maxi= INT_MIN;int i=0;int index=0;
+        for(auto row:mat){
+            for (auto k: row){
+            if(k==1){count++;}}
         
-        int maxOnes = 0;
-        int rowWithMaxOnes = 0;
-        vector<int> onesCount(m, 0); 
+        if(maxi<count){
+            maxi= count;
+            index=i;
+           } i++;
+            count=0;
+        } 
 
-        for (int k = 0; k < m * n; k++) {
-            int row = k / n;
-            int col = k % n;
+        return {index,maxi};
 
-            if (mat[row][col] == 1) {
-                onesCount[row]++;
-            }
-        }
-
-        for (int i = 0; i < m; i++) {
-            if (onesCount[i] > maxOnes) {
-                maxOnes = onesCount[i];
-                rowWithMaxOnes = i;
-            }
-        }
-
-        return {rowWithMaxOnes, maxOnes}; 
     }
+
 };
