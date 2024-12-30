@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/suhanikalra/practice-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suhanikalra/practice-problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/suhanikalra/practice-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanikalra/practice-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/suhanikalra/practice-problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0152-maximum-product-subarray) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/suhanikalra/practice-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/suhanikalra/practice-problems/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/suhanikalra/practice-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanikalra/practice-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/suhanikalra/practice-problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0152-maximum-product-subarray) |
