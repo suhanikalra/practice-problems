@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suhanikalra/practice-problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/suhanikalra/practice-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/suhanikalra/practice-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/suhanikalra/practice-problems/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikalra/practice-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/suhanikalra/practice-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/suhanikalra/practice-problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanikalra/practice-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/suhanikalra/practice-problems/tree/master/0131-palindrome-partitioning) |
@@ -721,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/suhanikalra/practice-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suhanikalra/practice-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
