@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/suhanikalra/practice-problems/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/suhanikalra/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/suhanikalra/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanikalra/practice-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suhanikalra/practice-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suhanikalra/practice-problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/suhanikalra/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
