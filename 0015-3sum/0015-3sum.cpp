@@ -1,37 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        vector<vector<int>> ans;
-        vector<int> result;
-        for (int i = 0; i < nums.size() - 2; i++) {
-            int start = i + 1;
-            int end = nums.size() - 1;
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue;
-            while (start < end) {
-                if (nums[start] + nums[end] == -nums[i]) {
-                    result.push_back(nums[i]);
-                    result.push_back(nums[start]);
-                    result.push_back(nums[end]);
-                    ans.push_back(result);
-                    result.clear();
-                }
-                if (nums[start] + nums[end] > -nums[i])
-                    end--;
-                else
-                    start++;
-            }
-        }
-        set<vector<int>> st;
-        for (auto s : ans) {
-            st.insert(s);
-        }
-        ans.clear();
-        for (auto s : st) {
-            ans.push_back(s);
-        }
+        sort(nums.begin(),nums.end());
+vector<vector<int>>result;
+vector<int>ans;
+int n= nums.size();
+        for(int i=0;i<n;i++){
+            int j= i+1;
+            int k= nums.size()-1;
+            while(j<k){
+                if(nums[k]+nums[j]==-nums[i]){
+                    ans.push_back({nums[i]});
+                   ans.push_back({nums[j]});
+                   ans.push_back({nums[k]});
+                    result.push_back(ans);
+                    ans.clear();
+                    j++;
+                    k--;}
 
-        return ans;
+                else if(nums[k]+nums[j]>-nums[i]){
+                    k--;
+                }
+                else j++;
+                }
+            }
+            set <vector<int>> s;
+            for(auto k: result){
+            s.insert(k);}
+            result.clear();
+            for(auto k: s){
+                result.push_back(k);
+            }
+        return result;
+        
     }
 };
