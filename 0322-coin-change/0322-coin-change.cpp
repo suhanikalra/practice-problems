@@ -1,25 +1,17 @@
 class Solution {
-public:
-    int solve(vector<int>& coins, int amount, int i, vector<vector<int>>& dp) {
-        if (amount == 0) return 0;
-        if (amount < 0 || i >= coins.size()) return INT_MAX;
-
-        if (dp[i][amount] != -1) return dp[i][amount];
-
-        int include = INT_MAX;
-        if (amount >= coins[i]) {
-            include = solve(coins, amount - coins[i], i, dp);
-            if (include != INT_MAX) include += 1;
-        }
-        
-        int exclude = solve(coins, amount, i + 1, dp);
-
-        return dp[i][amount] = min(include, exclude);
-    }
-
+public: ///////iiii looovvveeee. uuuuuuuuuuuu ookaayy study hardd
+int solve(int i, vector<int>& coins, int amount, vector<vector<int>>&dp){
+    if(amount==0){return 0;}
+    if(i==coins.size() || amount<0 )return 100000 ;
+    if(dp[i][amount]!=-1)return dp[i][amount];
+    
+//include
+    return dp[i][amount]=min(solve(i,coins,amount-coins[i],dp)+1, solve(i+1,coins,amount,dp));
+}
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>> dp(coins.size(), vector<int>(amount + 1, -1));
-        int result = solve(coins, amount, 0, dp);
-        return (result == INT_MAX) ? -1 : result;
+        ////hiii 
+        vector<vector<int>>dp(coins.size()+1,vector<int>(amount+1,-1));
+        if(solve(0,coins,amount,dp)!=100000)return solve(0,coins,amount,dp);
+        else return -1;
     }
 };
