@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/suhanikalra/practice-problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
