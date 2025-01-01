@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suhanikalra/practice-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/suhanikalra/practice-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/suhanikalra/practice-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0074-search-a-2d-matrix) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/suhanikalra/practice-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/suhanikalra/practice-problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/suhanikalra/practice-problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
