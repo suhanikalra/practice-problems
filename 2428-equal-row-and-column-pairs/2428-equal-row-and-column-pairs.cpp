@@ -1,6 +1,6 @@
 
 class Solution {
-public:// u there??????????????? 
+public:
     int equalPairs(vector<vector<int>>& grid) {
          vector<int>ans;
         int count=0;
@@ -8,7 +8,7 @@ public:// u there???????????????
       for(int i=0;i<grid[0].size();i++){
         for(int j=0;j<grid.size();j++){
             ans.push_back(grid[i][j]);//
-            //yes sogyi thi kya nhi
+            
         }
         for(auto k:ans){
         cout<<k;}
