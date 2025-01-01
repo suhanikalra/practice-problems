@@ -1,27 +1,37 @@
 
 class Solution {
-public:
+public:// u there??????????????? 
     int equalPairs(vector<vector<int>>& grid) {
-        unordered_map<string, int> rowMap;
-        int n = grid.size();
-        int pairs = 0;
-
-        for (int i = 0; i < n; ++i) {
-            string rowHash;
-            for (int j = 0; j < n; ++j) {
-                rowHash += "#" + to_string(grid[i][j]);
-            }
-            rowMap[rowHash]++;
+         vector<int>ans;
+        int count=0;
+       map<vector<int>,int>result;
+      for(int i=0;i<grid[0].size();i++){
+        for(int j=0;j<grid.size();j++){
+            ans.push_back(grid[i][j]);//
+            //yes sogyi thi kya nhi
         }
+        for(auto k:ans){
+        cout<<k;}
+       
+        result[ans]++;
+        ans.clear();
+        
+       } 
+       
 
-        for (int j = 0; j < n; ++j) {
-            string colHash;
-            for (int i = 0; i < n; ++i) {
-                colHash += "#" + to_string(grid[i][j]);
-            }
-            pairs += rowMap[colHash];
+       
+            for(int i=0;i<grid.size();i++){
+        for(int j=0;j<grid[0].size();j++){
+            ans.push_back(grid[j][i]);
+            
+            
         }
+        for(auto k:ans){
+        cout<<k;}
+        if(result[ans]){count+=result[ans]; cout<<"true";}
+        ans.clear();
+       } 
+       return count;
 
-        return pairs;
     }
 };
