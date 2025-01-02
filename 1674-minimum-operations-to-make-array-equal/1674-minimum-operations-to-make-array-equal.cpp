@@ -9,23 +9,12 @@ public:
         for(auto k: nums){sum+=k;}
         int mean= sum/nums.size();
         int median= nums[nums.size()/2];
-        if(median==mean){
-            for(auto k: nums){
-                count= count+ abs(k-mean);
-            }
-        }
-        if(median>mean){
+        
+         
             for(auto k: nums){
                 count= count+ abs(k-median);
             }
-
-
-        }
-        if(median<mean){
-            for(auto k: nums){
-                count= count+ abs(k-median);
-            }
-        }
+        
         return count/2;
 
         
