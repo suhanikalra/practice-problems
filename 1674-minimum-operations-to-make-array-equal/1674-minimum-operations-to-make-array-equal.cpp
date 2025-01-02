@@ -6,8 +6,7 @@ public:
         nums[i]=2*i+1;
       }
        int sum=0;int count=0;
-        for(auto k: nums){sum+=k;}
-        int mean= sum/nums.size();
+       
         int median= nums[nums.size()/2];
         
          
