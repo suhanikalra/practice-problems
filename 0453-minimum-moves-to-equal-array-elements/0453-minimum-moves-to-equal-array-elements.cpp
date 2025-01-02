@@ -1,15 +1,14 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int count = 0;
-       
-        int minNum = *min_element(nums.begin(), nums.end());
-
+      
+       int count=0;
         
-        for (const auto& num : nums) {
-            count += (num - minNum); 
-        }
+         
+            for(auto k: nums){
+                count= count+ abs(k-*min_element(nums.begin(),nums.end()));
+            }
         
-        return count; 
+        return count;
     }
 };
