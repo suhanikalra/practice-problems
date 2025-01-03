@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-int height(TreeNode* root){
-    if( root==nullptr)return 0;
-    return max(height(root->left)+1,height(root->right)+1);
+int height(TreeNode* root,int &ans){
+    if(root==NULL)return 0;
+    int lh= height(root->left,ans);
+    int rh= height(root->right,ans);
+    ans=max(ans,lh+rh);
+    return max(lh,rh)+1;
 }
-
-
-
+    
     int diameterOfBinaryTree(TreeNode* root) {
-        if (root==nullptr) return 0;
-        int ans= max(diameterOfBinaryTree(root->left),diameterOfBinaryTree(root->right));
-        return max(ans,height(root->left)+height(root->right));
-        
+         int ans=0;
+       height(root,ans);
+        return ans;
     }
 };
