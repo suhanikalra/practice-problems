@@ -1,46 +1,40 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int rows= grid.size();
-        int cols= grid[0].size();
-
-        queue<pair<int,int>>rottenQueue;
-        int freshOranges = 0;
-
-        for(int i=0;i<rows;i++){
-            for (int j=0;j<cols;j++){
-                if(grid[i][j]==2){
-                    rottenQueue.push({i,j});}
-                else if (grid[i][j]==1)freshOranges++;
-                
+        queue<pair<pair<int,int>,int>>q;int time=0;
+int fresh=0;
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
+                if (grid[i][j] == 1) {
+                    fresh++; }
+                if(grid[i][j]==2){q.push({{i,j},0});}
             }
         }
+        if (fresh == 0) return 0;
+    int dx[]= {-1,1,0,0};
+    int dy[]={0,0,1,-1};
 
-        if (freshOranges==0)return 0;
 
-        int time= -1;
-        vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}}; // 4-directional movements
-
-        while(!rottenQueue.empty()){
-            time++;
-            int size= rottenQueue.size();
-
-            for(int i=0;i<size;i++){
-                pair<int, int> rotten = rottenQueue.front();
-                rottenQueue.pop();
-
-                for (auto dir : directions) {
-                    int newRow = rotten.first + dir.first;
-                    int newCol = rotten.second + dir.second;
-
-                    if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && grid[newRow][newCol] == 1) {
-grid[newRow][newCol] = 2; // Rot the fresh orange
-                        freshOranges--; // Decrease fresh orange count
-                        rottenQueue.push({newRow, newCol});
+        while(!q.empty()){
+            auto ele= q.front();
+            int x= ele.first.first;
+            int y= ele.first.second;
+              int distance= ele.second;
+             if(fresh==0)break;
+            q.pop();
+            for(int i=0;i<4;i++){
+                int newx= x+dx[i];
+                int newy= y+dy[i];
+                if(newx>=0 and newy>=0 and newx<grid.size() and newy<grid[0].size() and grid[newx][newy]==1){
+                    grid[newx][newy]=2;
+                     
+                q.push({{newx,newy},distance+1});
+                time= max(time,distance+1); 
+                    
+                    fresh--;
+                }
             }
-        }}}
-
-return freshOranges == 0 ? time : -1;
+        }
+return (fresh == 0) ? time : -1;        
     }
 };
-
