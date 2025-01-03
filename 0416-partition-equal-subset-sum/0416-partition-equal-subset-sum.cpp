@@ -6,9 +6,9 @@ public:
         if(total >sum/2) return false;
         
         if(dp[i][total] != -1) return dp[i][total];
-         if (nums[i] > sum/2) {
-            return dp[i][total] =  solve(i+1, nums, total, sum, dp);
-        }
+        //  if (nums[i] > sum/2) {
+        //     return dp[i][total] =  solve(i+1, nums, total, sum, dp);
+        // }
         
          return dp[i][total] = solve(i+1, nums, total+nums[i], sum, dp) || 
                      solve(i+1, nums, total, sum, dp);
