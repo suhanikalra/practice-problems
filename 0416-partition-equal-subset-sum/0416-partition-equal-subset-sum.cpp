@@ -1,29 +1,29 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums, int sum, int n, vector<vector<int>>& memo) {
-        if (sum == 0) return true;
-        if (n < 0) return false;
+    bool solve(int i, vector<int>& nums, int total, int sum, vector<vector<int>>& dp) {
+        if(total == sum/2) return true;
+        if(i >= nums.size()) return false;
+        if(total >sum/2) return false;
         
-        if (memo[n][sum] != -1) return memo[n][sum];
-        
-        if (nums[n] > sum) {
-            return memo[n][sum] = solve(nums, sum, n-1, memo);
+        if(dp[i][total] != -1) return dp[i][total];
+         if (nums[i] > sum/2) {
+            return dp[i][total] =  solve(i+1, nums, total, sum, dp);
         }
         
-        return memo[n][sum] = solve(nums, sum - nums[n], n-1, memo) || 
-                               solve(nums, sum, n-1, memo);
+         return dp[i][total] = solve(i+1, nums, total+nums[i], sum, dp) || 
+                     solve(i+1, nums, total, sum, dp);
+                     
+       
     }
-
+    
     bool canPartition(vector<int>& nums) {
         int sum = 0;
-        for (int k : nums) {
-            sum += k;
-        }
+        for(auto k: nums) sum += k;
+        if(sum % 2 == 1) return false;
         
-        if (sum % 2 != 0) return false;
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(sum/2 + 1, -1));
         
-        vector<vector<int>> memo(nums.size(), vector<int>(sum/2 + 1, -1));
-        
-        return solve(nums, sum/2, nums.size()-1, memo);
+        return solve(0, nums, 0, sum, dp);
     }
 };
