@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/suhanikalra/practice-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suhanikalra/practice-problems/tree/master/0101-symmetric-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/suhanikalra/practice-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0074-search-a-2d-matrix) |
+| [0098-validate-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/suhanikalra/practice-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suhanikalra/practice-problems/tree/master/0101-symmetric-tree) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/suhanikalra/practice-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suhanikalra/practice-problems/tree/master/0101-symmetric-tree) |
