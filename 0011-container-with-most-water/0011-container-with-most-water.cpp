@@ -1,21 +1,16 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int n= height.size();
-        int i=0, j= n-1;
-        int water=0; int maxi= 0;
-
-        while(i<j){
-            water= min(height[i], height[j])* (j-i);
-             maxi= max(water, maxi);
-
-            if (height[i]< height[j]){
-                i++;
-            }
-            else j--;
+        //https://leetcode.com/problems/count-primes/
+       
+        int start=0,  end= height.size()-1;
+int maxi=0,area=0;
+        while(start<=end){
+            area= min(height[start],height[end])*(end-start);
+            maxi= max(area,maxi);
+            if(height[start]<=height[end])start++;
+            else end--;
         }
-
         return maxi;
-        
     }
 };
