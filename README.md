@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/suhanikalra/practice-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikalra/practice-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/suhanikalra/practice-problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikalra/practice-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suhanikalra/practice-problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/suhanikalra/practice-problems/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/suhanikalra/practice-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/suhanikalra/practice-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/suhanikalra/practice-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/suhanikalra/practice-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/suhanikalra/practice-problems/tree/master/0518-coin-change-ii) |
