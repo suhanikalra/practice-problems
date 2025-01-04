@@ -4,7 +4,7 @@ public:
         vector<bool>v(n+1,true);
         v[0]=false;v[1]=false;
 
-        for(int i=2;i<n;i++){
+        for(int i=2;i<sqrt(n);i++){
             if(v[i]==true){int p=i; 
             for(int j=2;j<n;j++){
                 if(j*p>n)break;
