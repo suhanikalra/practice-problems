@@ -1,25 +1,24 @@
 
 class Solution {
 public:
-    std::vector<std::vector<int>> merge(std::vector<std::vector<int>>& intervals) {
-        std::sort(intervals.begin(), intervals.end());
-        
-        int prev_start = intervals[0][0];
-        int prev_end = intervals[0][1];
-        std::vector<std::vector<int>> ans; 
+   vector<vector<int>> merge(vector<vector<int>>& intervals) {
+          sort(intervals.begin(),intervals.end());
+        int firststart= intervals[0][0];
+        int firstend= intervals[0][1],count=0;
+        vector<vector<int>>v;
 
-        for (int i = 1; i < intervals.size(); ++i) {
-            if (intervals[i][0] > prev_end) { 
-                ans.push_back({prev_start, prev_end});
-                prev_start = intervals[i][0];
-                prev_end = intervals[i][1];
-            } else { 
-                prev_end = std::max(prev_end, intervals[i][1]);
+        for(int i=1;i<intervals.size();i++){
+            if(intervals[i][0]<=firstend){count++;firstend=max(firstend,intervals[i][1]);
+           }
+            else{ v.push_back({firststart,firstend});
+                firststart= intervals[i][0];
+         firstend= intervals[i][1];
+
             }
-        }
+        }v.push_back({firststart,firstend});
 
-        ans.push_back({prev_start, prev_end});
-
-        return ans;
+        
+        
+        return v;
     }
 };
