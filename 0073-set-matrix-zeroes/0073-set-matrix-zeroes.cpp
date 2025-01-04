@@ -2,25 +2,31 @@ class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
         vector<vector<int>>v;
+        
         for(int i=0;i<matrix.size();i++){
             for(int j=0;j<matrix[0].size();j++){
                 if(matrix[i][j]==0){
-                    v.push_back({i,j});
+                    for(int k=0;k<matrix[0].size();k++){
+            if(matrix[i][k] != 0)
+                    matrix[i][k]=INT_MIN+9;}
+                    for(int k=0;k<matrix.size();k++){
+             if(matrix[k][j] != 0)
+                    matrix[k][j]=INT_MIN+9;}
+                    
+                    }
                 }
             }
-    }
-for(int i=0;i<v.size();i++){
-    auto x= v[i][0];
-    auto y= v[i][1];
-    for(int i=0;i<matrix[0].size();i++){
-        matrix[x][i]=0; 
-    }
-    for(int i=0;i<matrix.size();i++){
-        matrix[i][y]=0;
-       
-    }
+
+            for(int i=0;i<matrix.size();i++){
+            for(int j=0;j<matrix[0].size();j++){
+                if(matrix[i][j]==INT_MIN+9){matrix[i][j]=0;}}}
+
+    
+///idk
+
+    
     
 
-    }
+    
     }
 };
