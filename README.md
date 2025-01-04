@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikalra/practice-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikalra/practice-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0593-valid-square](https://github.com/suhanikalra/practice-problems/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/suhanikalra/practice-problems/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/suhanikalra/practice-problems/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/suhanikalra/practice-problems/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Design
