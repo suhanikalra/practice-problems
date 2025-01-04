@@ -10,37 +10,31 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoSortedLists(ListNode* L1, ListNode* L2) {
-        if (L1 == nullptr) return L2;
-        if (L2 == nullptr) return L1;
-        
-        if (L1->val < L2->val) {
-            L1->next = mergeTwoSortedLists(L1->next, L2);
-            return L1;
-        } else {
-            L2->next = mergeTwoSortedLists(L1, L2->next);
-            return L2;
-        }
+ListNode* merge( ListNode*list1,ListNode*list2){
+    if(list1==NULL and list2==NULL)return NULL;
+    if(list1==NULL)return list2;
+    if(list2==NULL)return list1;
+
+    if(list1->val<=list2->val){list1->next=(merge(list1->next,list2));return list1;}
+   else{list2->next=(merge(list2->next,list1));return list2;}
+
+
+
+}
+ ListNode* mergeK(vector<ListNode*>& lists,ListNode*mergeList,int i){
+    if(i== lists.size()){
+        return mergeList;
     }
+        mergeList = merge(lists[i], mergeList);
+        return mergeK(lists, mergeList, i + 1);
+   
+    
 
-    ListNode* partitionAndMerge(int start, int end, vector<ListNode*>& lists) {
-        if (start > end) {
-            return nullptr;
-        }
-        if (start == end) {
-            return lists[start];
-        }
-
-        int mid = start + (end - start) / 2;
-        ListNode* L1 = partitionAndMerge(start, mid, lists);
-        ListNode* L2 = partitionAndMerge(mid + 1, end, lists);
-
-        return mergeTwoSortedLists(L1, L2);
-    }
-
+ }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int k = lists.size();
-        if (k == 0) return nullptr;
-        return partitionAndMerge(0, k - 1, lists);
+      if (lists.empty()) return nullptr;
+
+        ListNode* mergeList = nullptr; 
+        return mergeK(lists, mergeList, 0);
     }
 };
