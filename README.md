@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suhanikalra/practice-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/suhanikalra/practice-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/suhanikalra/practice-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suhanikalra/practice-problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/suhanikalra/practice-problems/tree/master/0120-triangle) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/suhanikalra/practice-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/suhanikalra/practice-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/suhanikalra/practice-problems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/suhanikalra/practice-problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/suhanikalra/practice-problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/suhanikalra/practice-problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/suhanikalra/practice-problems/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/suhanikalra/practice-problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/suhanikalra/practice-problems/tree/master/0131-palindrome-partitioning) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/suhanikalra/practice-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0099-recover-binary-search-tree) |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/suhanikalra/practice-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/suhanikalra/practice-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/suhanikalra/practice-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/suhanikalra/practice-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suhanikalra/practice-problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/suhanikalra/practice-problems/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/suhanikalra/practice-problems/tree/master/0113-path-sum-ii) |
