@@ -1,12 +1,7 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-            int ans =0;
-            for( int i=2;i<=n;i++)
-            {
-                    ans = (ans + (k+i))%i;
-            }
-
-            return ans+1;
+        if(n==1)return 1;
+        return(findTheWinner(n-1,k)+k-1)%n+1;
     }
 };
