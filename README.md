@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/suhanikalra/practice-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/suhanikalra/practice-problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/suhanikalra/practice-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suhanikalra/practice-problems/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/suhanikalra/practice-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/suhanikalra/practice-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
