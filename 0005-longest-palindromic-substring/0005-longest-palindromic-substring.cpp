@@ -1,28 +1,33 @@
 class Solution {
 public:
-    string result = "";
-    
-    int solve(string &s, string &p, int i, int j, string ans) {
-        if (result.size() < ans.size()) 
-            result = ans;
-
-        if (i == s.size() || j == p.size())
-            return result.size();
-
-        if (s[i] == p[j]) {
-            solve(s, p, i + 1, j + 1, ans + s[i]);
-        }
-        else{solve(s, p, i + 1, j, "");
-        solve(s, p, i, j + 1, "");}
-
-        return result.size();
-    }
-
     string longestPalindrome(string s) {
-        string p = s;
-        reverse(p.begin(), p.end());
-        string ans = "";
-        solve(s, p, 0, 0, ans);
-        return result;
+        if (s.empty()) {
+            return "";
+        }
+
+        int start = 0;
+        int end = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            int odd = expandAroundCenter(s, i, i);
+            int even = expandAroundCenter(s, i, i + 1);
+            int max_len = max(odd, even);
+
+            if (max_len > end - start) {
+                start = i - (max_len - 1) / 2;
+                end = i + max_len / 2;
+            }
+        }
+
+        return s.substr(start, end - start + 1);        
     }
+
+private:
+    int expandAroundCenter(string s, int left, int right) {
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+            left--;
+            right++;
+        }
+        return right - left - 1;
+    }    
 };
