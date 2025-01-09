@@ -8,30 +8,24 @@
  */
 class Solution {
 public:
+    ListNode *detectCycle(ListNode *head) {
+        ListNode* slow= head;
+        ListNode* fast= head;
 
-ListNode *detectCycle(ListNode *head) {
-    if (head == nullptr || head->next == nullptr) {
-        return nullptr;
-    }
-
-    ListNode *slow = head;
-    ListNode *fast = head;
-
-    while (fast && fast->next) {
-        slow = slow->next;
-        fast = fast->next->next;
-
-        if (slow == fast) {
-            // Cycle detected, find the start of the cycle
-            slow = head;
-            while (slow != fast) {
-                slow = slow->next;
-                fast = fast->next;
-            }
-            return slow; // Return the node where the cycle starts
+        while(fast and fast->next ){
+            slow= slow->next;
+            fast= fast->next->next;
+            if(slow==fast)break;
         }
-    }
+        if(fast==nullptr or fast->next==nullptr)return nullptr;
+        
+        fast= head;
+        while(fast!=slow){
+            fast= fast->next;
+            slow= slow->next;
+        }
+        return slow;
 
-    return nullptr; // No cycle found
-}
+        
+    }
 };
