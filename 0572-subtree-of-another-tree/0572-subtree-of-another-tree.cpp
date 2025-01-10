@@ -13,20 +13,22 @@ class Solution {
 public:
 bool isSame(TreeNode*p,TreeNode*q){
     if(!p and !q)return true;
-    if(!p or !q)return false;
+    if(!p || !q)return false;
     if(p->val != q->val)return false;
 
     return isSame(p->left,q->left) and isSame(p->right ,q->right);
+ 
+
 }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root==NULL and subRoot==NULL)return true;
-        if(root==NULL || subRoot==NULL)return false;
+        if(root==NULL or subRoot==NULL)return false;
 
         if(isSame(root,subRoot)==true)return true;
         else{
           return isSubtree(root->right,subRoot) ||  isSubtree(root->left,subRoot) ;
 
         }
-
+        
     }
 };
