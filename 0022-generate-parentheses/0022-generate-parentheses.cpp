@@ -1,29 +1,15 @@
 class Solution {
 public:
-void solve(int open, int close,string ans,vector<string>&result){
-if(open==0 && close==0){
-    result.push_back(ans);
-    return;
+void solve(int open,int close,string ans,vector<string>&result,int n){
+    if(open==n and close==n){result.push_back(ans);return; }
+    if(open<n)solve(open+1,close,ans+"(",result,n);
+    if(close<open)solve(open,close+1,ans+")",result,n);
 }
-if(open>0){
-    ans.push_back('(');
-    solve(open-1,close,ans,result);
-    ans.pop_back();
-}
-if(open<close and close>0){
-    ans.push_back(')');
-    solve(open,close-1,ans,result);
-    ans.pop_back();
-}
-}
-
-
     vector<string> generateParenthesis(int n) {
-        int open = n-1;
-        int close = n;
-        string ans="(";
+        string ans= "(";
         vector<string> result;
-        solve(open,close,ans,result);
+        solve(1,0,ans,result,n);
         return result;
+        
     }
 };
