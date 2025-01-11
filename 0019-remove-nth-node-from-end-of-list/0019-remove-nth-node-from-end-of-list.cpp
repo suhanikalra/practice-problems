@@ -11,28 +11,32 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* dummy = new ListNode(0); // Dummy node to handle edge cases
-        dummy->next = head; // Point dummy's next to head of the list
-        ListNode* fast = dummy;
-        ListNode* slow = dummy;
-
-        // Move fast pointer n nodes ahead
-        for (int i = 0; i <= n; ++i) {
-            if (fast == nullptr) return nullptr; // Handle edge case if n > list size
-            fast = fast->next;
+         ListNode* temp= head;int count=0;
+        if(head== nullptr)return head;
+        while(temp){
+            temp=temp->next;
+            count++;
         }
-
-        // Move both fast and slow pointers until fast reaches end
-        while (fast != nullptr) {
-            fast = fast->next;
-            slow = slow->next;
+        if(count==n)return head->next;
+        if(count<n)return head;
+        ListNode* dummy= head;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        for(int i=0;i<n;i++){
+            
+             if( fast==NULL)return head;
+             fast= fast->next;
         }
+        while(fast!= nullptr){
+            fast= fast->next;
+              dummy= slow;
+            slow= slow->next;
+          
+        }
+      dummy->next= slow->next;
+      delete slow;
+      
+        return head;
 
-        // Remove the nth node from the end
-        ListNode* toRemove = slow->next;
-        slow->next = slow->next->next;
-        delete toRemove;
-
-        return dummy->next; // Return the updated head
     }
 };
