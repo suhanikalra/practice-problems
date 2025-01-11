@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/suhanikalra/practice-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/suhanikalra/practice-problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/suhanikalra/practice-problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/suhanikalra/practice-problems/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/suhanikalra/practice-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/suhanikalra/practice-problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/suhanikalra/practice-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/suhanikalra/practice-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
