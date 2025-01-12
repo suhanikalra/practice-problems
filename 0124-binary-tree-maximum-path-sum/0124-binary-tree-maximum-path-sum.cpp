@@ -15,7 +15,7 @@ int solve(TreeNode* root,int &ans){
     if(root==NULL)return 0;
     int l=max(0,solve(root->left,ans));
     int r=max(0,solve(root->right,ans));
-    ans=max(max(l+r+root->val,root->val),ans);
+    ans=max(l+r+root->val,ans);
 
     return max(l,r)+root->val;
 
