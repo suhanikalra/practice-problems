@@ -11,26 +11,18 @@
  */
 class Solution {
 public:
-bool isSame(TreeNode* left, TreeNode* right) {
- if (left == nullptr && right == nullptr) return true;
-if (left==nullptr && right !=nullptr )return false;
-if (right==nullptr && left !=nullptr )return false;
+bool isSimilar(TreeNode* p,TreeNode* q){
+    if(p==NULL and q==NULL)return true;
+    if(p==NULL or q==NULL)return false;
+    if(p->val!= q->val)return false;
+    return isSimilar(p->left,q->right) and isSimilar(p->right,q->left);
 
-TreeNode* p= left;
-TreeNode* q= right;
-        if(p->val == q->val){
-      return (isSame(p->left,q->right) && isSame(q->left,p->right));
-} 
-return false;
 }
-
-
     bool isSymmetric(TreeNode* root) {
-if (root==nullptr) return true;
-if (root->left==nullptr && root->right !=nullptr )return false;
-if (root->right==nullptr && root->left !=nullptr )return false;
+        if(root==NULL)return true;
+        if(isSimilar(root->left,root->right)==false)return false;
+       return true;
 
-      return isSame(root->left,root->right);
         
     }
 };
