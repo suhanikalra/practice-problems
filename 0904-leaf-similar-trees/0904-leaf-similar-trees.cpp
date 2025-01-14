@@ -13,9 +13,9 @@ class Solution {
 public:
 void solve(TreeNode* root,vector<int>&ans){
     if(root==NULL)return ;
-    if(root->left==nullptr and root->right==nullptr)ans.push_back(root->val);
     solve(root->left,ans);
-    
+        if(root->left==nullptr and root->right==nullptr)ans.push_back(root->val);
+
     solve(root->right,ans);
 
 }
