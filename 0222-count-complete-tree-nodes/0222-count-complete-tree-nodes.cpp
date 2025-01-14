@@ -11,22 +11,19 @@
  */
 class Solution {
 public:
+void solve(TreeNode* root,int &count){
+      if(root==NULL)return ;
+     count++;
+       solve(root->left,count);
+      
+       solve(root->right,count);
+}
     int countNodes(TreeNode* root) {
-        //bfs and count levelorder type
-        if(root==nullptr)return 0;
-        queue<TreeNode*> q;
-        q.push(root);
-        int count=1;
-
-        while(!q.empty()){
-        TreeNode* a= q.front();
-        q.pop();
-        if(a->left){q.push(a->left);
-        count++;}
-        if(a->right){q.push(a->right);
-         count++;}
-
-        }
+        if(root==NULL)return 0;int count=0;
+        solve(root,count);
+        cout<<count;
         return count;
+
+        
     }
 };
