@@ -11,25 +11,20 @@
  */
 class Solution {
 public:
-    void getLeaf(TreeNode*root,vector<int>&leaf){
-        if(root==nullptr)return;
-        if(root->left==nullptr and root->right==nullptr){
-            leaf.push_back(root->val);
-            return;
-        }
-
-            getLeaf(root->left,leaf);
-            getLeaf(root->right,leaf);
-        }
-
-
+void solve(TreeNode* root,vector<int>&ans){
+    if(root==NULL)return ;
+    if(root->left==nullptr and root->right==nullptr)ans.push_back(root->val);
+    solve(root->left,ans);
     
+    solve(root->right,ans);
 
-
+}
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-         vector<int> leaves1, leaves2;
-         getLeaf(root1,leaves1);
-         getLeaf(root2,leaves2);
-         return leaves1==leaves2;
+        vector<int>ans1; vector<int>ans2;
+        solve(root1,ans1);
+         solve(root2,ans2);
+         return ans1==ans2;
+       
+
     }
 };
