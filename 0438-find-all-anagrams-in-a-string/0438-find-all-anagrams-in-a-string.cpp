@@ -1,23 +1,25 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        vector<int> ans;
-        int end=0;
-        int start=0;
-        if(p.length()>s.length())return {};
-        vector<int> pfreq(26, 0);
-        vector<int> windowFreq(26, 0);
-        for(auto c:p){pfreq[c-'a']++;}
-        for(end;end<p.size();end++){
-           windowFreq[s[end] - 'a']++;
+        unordered_map<char,int>pfreq;
+        unordered_map<char,int>sfreq;
+        vector<int>ans;int start=0,end=0;
+        for(auto k: p){pfreq[k]++;}
+
+        if(p.size()>s.size())return {};
+
+        for( end=0;end<p.size();end++){
+            sfreq[s[end]]++;
+
         }
-        if(windowFreq==pfreq){ans.push_back(start);}
-        for(end;end<s.size();end++){
-            windowFreq[s[end] - 'a']++;
-             windowFreq[s[start] - 'a']--;
-           
+        if(sfreq==pfreq)ans.push_back(start);
+        for(;end<s.size();end++){
+            sfreq[s[end]]++;
+            sfreq[s[start]]--;
+             if(sfreq[s[start]]==0)sfreq.erase(s[start]);
             start++;
-            if(windowFreq==pfreq){ans.push_back(start);}
+           
+            if(sfreq==pfreq)ans.push_back(start);
         }
         return ans;
 
