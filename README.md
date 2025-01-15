@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/suhanikalra/practice-problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0654-maximum-binary-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/suhanikalra/practice-problems/tree/master/0941-sort-array-by-parity) |
+| [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/suhanikalra/practice-problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/suhanikalra/practice-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Graph
 |  |
@@ -954,4 +958,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/suhanikalra/practice-problems/tree/master/0274-h-index) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
