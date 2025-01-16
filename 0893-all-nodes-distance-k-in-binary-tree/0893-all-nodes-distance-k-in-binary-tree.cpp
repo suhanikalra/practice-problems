@@ -11,47 +11,45 @@ class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         if(root==NULL or target==NULL)return {};
-        queue<TreeNode*>q;
-        unordered_map<TreeNode*,TreeNode*>parent;
-
+        
+        unordered_map<TreeNode*,TreeNode*>mp;
+        queue<TreeNode*>q;int level=0;
         q.push(root);
         while(!q.empty()){
             int size= q.size();
             for(int i=0;i<size;i++){
                 auto ele= q.front();
                 q.pop();
-                if(ele->left){parent[ele->left]=ele;q.push(ele->left);}
-                if(ele->right){parent[ele->right]=ele;q.push(ele->right);}
+                if(ele->left){mp[ele->left]=ele;q.push(ele->left);}
+                if(ele->right){mp[ele->right]=ele;q.push(ele->right);}
             }
-            
         }
-        unordered_set<TreeNode*>visited;
-        q.push(target);
-        visited.insert(target);
-        int count=0;
-        while(!q.empty()){
-             int size= q.size();
-             if(count==k)break;
+unordered_set<TreeNode*>visited;
+visited.insert(target);
+q.push(target);
+         while(!q.empty()){
+            int size= q.size();
+            if( level==k)break;
             for(int i=0;i<size;i++){
-                auto ele= q.front();
-                q.pop();
+                auto ele= q.front();q.pop();
+                
                 if(ele->left and visited.find(ele->left)==visited.end()){
-                    visited.insert(ele->left);q.push(ele->left);
+                    q.push(ele->left);   visited.insert(ele->left);  
                 }
-                if(ele->right and visited.find(ele->right)==visited.end()){
-                    visited.insert(ele->right);q.push(ele->right);
+                if(ele->right and visited.find(ele->right)== visited.end() ){
+                    q.push(ele->right);     visited.insert(ele->right);
                 }
-                if (parent.find(ele) != parent.end() && visited.find(parent[ele]) == visited.end()) {
-                    visited.insert(parent[ele]);q.push(parent[ele]);}
-                    
-                }count++;
-
-        }vector<int>ans;
+                if (mp.find(ele) != mp.end() && visited.find(mp[ele]) == visited.end()) {
+    q.push(mp[ele]);
+    visited.insert(mp[ele]);
+}
+            }level++;
+         }
+vector<int>ans;
         while(!q.empty()){
             if(q.front())ans.push_back(q.front()->val);
             q.pop();
         }
         return ans;
-   
     }
 };
