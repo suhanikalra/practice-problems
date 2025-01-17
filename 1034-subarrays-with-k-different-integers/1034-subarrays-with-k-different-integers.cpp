@@ -1,21 +1,25 @@
 class Solution {
 public:
-int solve(vector<int>& nums, int k){
-    int start=0;int end=0;unordered_map<int,int>mp;
-    int count=0;
-        while(end<nums.size()){
-            mp[nums[end]]++;
+int solveatmost(vector<int>& s, int k){
+      unordered_map<int,int>mp;int count=0;
+        int start=0,end=0;
+        while(end<s.size()){
+            mp[s[end]]++;
             while(mp.size()>k){
-                mp[nums[start]]--;
-                if(mp[nums[start]]==0)mp.erase(nums[start]);
+                mp[s[start]]--;
+                if(mp[s[start]]==0)mp.erase(s[start]);
                 start++;
-            }
-            count += end - start + 1;
-            end++;
 
-        }return count;
+            }
+          
+            count+=end-start+1;
+            end++;
+        }
+        return count;
     
-}
+
+} 
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-       return solve(nums,k)-solve(nums,k-1);}
+       return solveatmost(nums,k)- solveatmost(nums,k-1);
+    }
 };
