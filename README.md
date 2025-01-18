@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suhanikalra/practice-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/suhanikalra/practice-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/suhanikalra/practice-problems/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/suhanikalra/practice-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/suhanikalra/practice-problems/tree/master/0260-single-number-iii) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/suhanikalra/practice-problems/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/suhanikalra/practice-problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/suhanikalra/practice-problems/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/suhanikalra/practice-problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/suhanikalra/practice-problems/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
