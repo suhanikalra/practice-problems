@@ -3,17 +3,17 @@ public:
     int minSwaps(vector<int>& nums) {
         int one=0;int n=nums.size();
         for(auto k: nums){if(k==1)one++;}    
-int windowone=0;int start=0;int maxi=0;
+int window=0;int start=0;int maxi=0;
         for(int end=0;end<one;end++){
-            if(nums[end]==1)windowone++;
+            if(nums[end]==0)window++;
         }
-        maxi=max(maxi,windowone);
+        maxi=max(maxi,window);
 for (int end = one; end < n + one; end++) {
-            if (nums[end % n] == 1) windowone++; 
-            if (nums[start % n] == 1) windowone--;
+            if (nums[end % n] == 0) window++; 
+            if (nums[start % n] == 0) window--;
             start++;
-            maxi=max(maxi,windowone);
+            maxi=min(maxi,window);
         } 
-        return one-maxi;  
+        return maxi;  
     }
 };
