@@ -1,17 +1,18 @@
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
-        priority_queue<double>maxheap;int sum=0;
-        for(int i=0;i<k;i++){
+        int start=0, i=0; double sum=0,maxi=0;
+        for( i= 0;i<k;i++){
             sum+=nums[i];
+
         }
-        maxheap.push(sum);
-        for(int i=k;i<nums.size();i++){
-            sum=sum-nums[i-k]+nums[i];
-            maxheap.push(sum);
+        maxi= max(maxi,sum);
+        for( i;i<nums.size();i++){
+            sum=sum+ nums[i]-nums[start];start++;
+            maxi= max(maxi,sum);
         }
-        return maxheap.top()/k;
-        
+        return maxi/(k*1.0); 
+
         
     }
 };
