@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/suhanikalra/practice-problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2737-row-with-maximum-ones](https://github.com/suhanikalra/practice-problems/tree/master/2737-row-with-maximum-ones) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
 ## Sorting
 |  |
@@ -999,4 +1001,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
