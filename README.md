@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2737-row-with-maximum-ones](https://github.com/suhanikalra/practice-problems/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
+| [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Matrix
 |  |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
+| [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
