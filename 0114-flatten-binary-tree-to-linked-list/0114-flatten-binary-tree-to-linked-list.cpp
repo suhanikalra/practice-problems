@@ -11,22 +11,22 @@
  */
 class Solution {
 public:
-void preorder( TreeNode* root,vector<int>&ans){
+void preorder( TreeNode* root,vector<TreeNode*>&ans){
 	if(root==NULL)return;
-	ans.push_back(root->val);
+	ans.push_back(root);
 	preorder(root->left,ans);
 	preorder(root->right,ans);
 }
 void flatten(TreeNode* root) {
     // add your logic here
     if(root==NULL)return;
-	vector<int>ans;
+	vector<TreeNode*>ans;
 	preorder(root,ans);
 	if(root->left)root->left= NULL;
 	if(root->right)root->right=NULL;
 	
 	for(int i=1;i<ans.size();i++){
-		root->right = new TreeNode(ans[i]);
+		root->right = ans[i];
 		root->left=NULL;
 		root=root->right;
 	}
