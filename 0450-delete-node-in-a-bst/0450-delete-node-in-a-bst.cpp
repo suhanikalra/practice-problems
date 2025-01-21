@@ -15,8 +15,8 @@ public:
         if(root==NULL)return root;
         if(root->val==key) {
             if(!root->left and !root->right){delete root;return NULL;}
-            else if(!root->left ){TreeNode* temp= root->right;return temp;}
-            else  if(!root->right ){TreeNode* temp= root->left;return temp;}
+            else if(!root->left ){TreeNode* temp= root->right; delete root;return temp;}
+            else  if(!root->right ){TreeNode* temp= root->left; delete root;return temp;}
               else {
                 TreeNode* temp = root->right;
                 TreeNode* tempi = root->right;
