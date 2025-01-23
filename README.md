@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suhanikalra/practice-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/suhanikalra/practice-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suhanikalra/practice-problems/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/suhanikalra/practice-problems/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/suhanikalra/practice-problems/tree/master/0279-perfect-squares) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikalra/practice-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
