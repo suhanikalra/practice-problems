@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/suhanikalra/practice-problems/tree/master/2536-determine-if-two-events-have-conflict) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/suhanikalra/practice-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Database
 |  |
 | ------- |
