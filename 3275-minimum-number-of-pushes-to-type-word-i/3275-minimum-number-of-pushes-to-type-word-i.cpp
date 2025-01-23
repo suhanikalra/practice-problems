@@ -1,10 +1,10 @@
+
 class Solution {
 public:
     int minimumPushes(string word) {
         unordered_map<int,int>mp;
         for(auto k: word){
-            mp[k]++;
-            
+            mp[k]++;  
         }
         vector<int>nums;
         for(auto k: mp){
@@ -13,10 +13,15 @@ public:
         int count=0;
         sort(nums.begin(),nums.end(),greater<int>());
  for (int num : nums) {
-        cout << num << " ";
-    }       for(int i=1;i<nums.size();i++){
-        count+=nums[i-1]*(i/8+1);
-       }
-       return count+1;
+      
+    }    
+        for (int i = 0; i < nums.size(); i++) {
+            count += nums[i] * ((i / 8) + 1);
+           
+        }
+
+return count;
+
+    
     }
 };
