@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/suhanikalra/practice-problems/tree/master/1033-broken-calculator) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/suhanikalra/practice-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suhanikalra/practice-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1635-number-of-good-pairs) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/suhanikalra/practice-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/suhanikalra/practice-problems/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/suhanikalra/practice-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/suhanikalra/practice-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/suhanikalra/practice-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/suhanikalra/practice-problems/tree/master/1380-number-of-closed-islands) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/suhanikalra/practice-problems/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/suhanikalra/practice-problems/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/suhanikalra/practice-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Design
 |  |
 | ------- |
