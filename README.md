@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suhanikalra/practice-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/suhanikalra/practice-problems/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/suhanikalra/practice-problems/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/suhanikalra/practice-problems/tree/master/0319-bulb-switcher) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suhanikalra/practice-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikalra/practice-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/suhanikalra/practice-problems/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Radix Sort
 |  |
