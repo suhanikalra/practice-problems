@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/suhanikalra/practice-problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/suhanikalra/practice-problems/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
+| [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suhanikalra/practice-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/suhanikalra/practice-problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/suhanikalra/practice-problems/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suhanikalra/practice-problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/suhanikalra/practice-problems/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
