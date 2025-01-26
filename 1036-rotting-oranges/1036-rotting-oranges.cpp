@@ -13,8 +13,8 @@ public:
         int dy[]={0,0,1,-1};
         int time=0;
         while(!q.empty()){
-            auto size= q.size();
-            for(int i=0;i<size;i++){
+            
+            
                 auto ele= q.front();
                 q.pop();
                 int x= ele.first.first;
@@ -28,7 +28,7 @@ public:
                     q.push({{newx,newy},dist+1});
                     fresh--;
 
-                    }
+                    
                 }
 
             }
