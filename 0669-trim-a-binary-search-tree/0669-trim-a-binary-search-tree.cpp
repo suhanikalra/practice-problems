@@ -15,8 +15,8 @@ public:
         if(root==NULL)return NULL;
         root->left = trimBST(root->left, low, high);
         root->right = trimBST(root->right, low, high);
-        while(root->val<low){root=root->right;return root; }
-        while(root->val>high){root=root->left;return root; }
+        if(root->val<low){root=root->right;return root; }
+        if(root->val>high){root=root->left;return root; }
         
         return root;
     }
