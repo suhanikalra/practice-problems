@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Reservoir Sampling
 |  |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/suhanikalra/practice-problems/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
 | [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Matrix
 |  |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Stack
 |  |
 | ------- |
