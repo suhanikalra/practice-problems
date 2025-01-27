@@ -5,10 +5,8 @@ public:
             return 0;
         }
         
-        // Mark as visited by changing 1 to 2
         grid[i][j] = 2;
         
-        // Count current cell (1) plus all adjacent land cells
         return 1 + solve(grid, i+1, j) + 
                    solve(grid, i-1, j) + 
                    solve(grid, i, j+1) + 
