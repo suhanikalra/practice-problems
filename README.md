@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-determine-if-two-events-have-conflict](https://github.com/suhanikalra/practice-problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/suhanikalra/practice-problems/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suhanikalra/practice-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/suhanikalra/practice-problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suhanikalra/practice-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanikalra/practice-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhanikalra/practice-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
