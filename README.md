@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2562-count-ways-to-build-good-strings](https://github.com/suhanikalra/practice-problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Stack
 |  |
