@@ -2,7 +2,10 @@
 class Solution {
 public:
     bool palindRE(const string& s, int start, int end) {
-     
+      if (start >= end) {
+            return true;
+        }
+        
         while (start < end && !isalnum(s[start])) {
             start++;
         }
@@ -11,10 +14,7 @@ public:
             end--;
         }
         
-        if (start >= end) {
-            return true;
-        }
-        
+       
         if (tolower(s[start]) != tolower(s[end])) {
             return false;
         }
