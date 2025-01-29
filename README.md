@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/suhanikalra/practice-problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/suhanikalra/practice-problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/suhanikalra/practice-problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/suhanikalra/practice-problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
