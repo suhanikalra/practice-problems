@@ -18,7 +18,7 @@ public:
         vector<double>ans;double sum=0;int count=0;
         while(!q.empty()){
             int size= q.size();
-            int maxi=INT_MIN;
+            
             for(int i=0;i<size;i++){
                 auto ele= q.front();
                sum+=ele->val;
