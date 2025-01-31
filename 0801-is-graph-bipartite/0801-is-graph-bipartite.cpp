@@ -1,31 +1,33 @@
 class Solution {
 public:
     bool isBipartite(vector<vector<int>>& graph) {
-        vector<int>color(graph.size(),0);
-        queue<int>q;
-        for(int i=0;i<graph.size();i++){
-            if(color[i] == 0) {
-              
-               color[i] = 1;
-               queue<int> q;
-               q.push(i);
-               
-               while(!q.empty()) {
-                   int ele = q.front();
-                   q.pop();
-                   for(auto child: graph[ele]){
-                    if(color[child]==0){
-                        color[child]= -color[ele];
-                        q.push(child);
+        int n = graph.size();
+        vector<int> color(n, -1); 
+        
+       
+        for(int start = 0; start < n; start++) {
+            if(color[start] != -1) continue;
+            
+            queue<int> q;
+            q.push(start);
+            color[start] = 1; 
+            
+            while(!q.empty()) {
+                int node = q.front();
+                q.pop();
+                
+                for(int neighbor : graph[node]) {
+                    if(color[neighbor] == -1) {
+                        color[neighbor] = 1 - color[node];
+                        q.push(neighbor);
                     }
-                    else if( color[child]==color[ele])return false;
-
-
-                   }
+                    else if(color[neighbor] == color[node]) {
+                        return false;
+                    }
                 }
             }
         }
-        return true;
         
+        return true;
     }
 };
