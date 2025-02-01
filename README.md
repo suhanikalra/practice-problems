@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3429-special-array-i](https://github.com/suhanikalra/practice-problems/tree/master/3429-special-array-i) |
 ## Matrix
 |  |
 | ------- |
