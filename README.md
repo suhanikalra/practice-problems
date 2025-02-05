@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suhanikalra/practice-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/suhanikalra/practice-problems/tree/master/3429-special-array-i) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/suhanikalra/practice-problems/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/suhanikalra/practice-problems/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Sorting
 |  |
 | ------- |
