@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/suhanikalra/practice-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suhanikalra/practice-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhanikalra/practice-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/suhanikalra/practice-problems/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
@@ -1180,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2413-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Game Theory
 |  |
