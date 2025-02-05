@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suhanikalra/practice-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suhanikalra/practice-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/suhanikalra/practice-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/suhanikalra/practice-problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/suhanikalra/practice-problems/tree/master/1666-make-the-string-great) |
+| [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Depth-First Search
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0654-maximum-binary-tree) |
+| [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
 ## Trie
 |  |
 | ------- |
