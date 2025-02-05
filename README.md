@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suhanikalra/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
+| [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/suhanikalra/practice-problems/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suhanikalra/practice-problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
+| [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suhanikalra/practice-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/suhanikalra/practice-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/suhanikalra/practice-problems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/suhanikalra/practice-problems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/suhanikalra/practice-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
+| [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/suhanikalra/practice-problems/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
