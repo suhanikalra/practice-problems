@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/suhanikalra/practice-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/suhanikalra/practice-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/suhanikalra/practice-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/suhanikalra/practice-problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/suhanikalra/practice-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/suhanikalra/practice-problems/tree/master/1293-three-consecutive-odds) |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/suhanikalra/practice-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/suhanikalra/practice-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
