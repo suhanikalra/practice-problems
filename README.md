@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/suhanikalra/practice-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/suhanikalra/practice-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0243-shortest-word-distance](https://github.com/suhanikalra/practice-problems/tree/master/0243-shortest-word-distance) |
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
 | [0260-single-number-iii](https://github.com/suhanikalra/practice-problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/suhanikalra/practice-problems/tree/master/0274-h-index) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/suhanikalra/practice-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suhanikalra/practice-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
+| [0243-shortest-word-distance](https://github.com/suhanikalra/practice-problems/tree/master/0243-shortest-word-distance) |
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/suhanikalra/practice-problems/tree/master/0290-word-pattern) |
