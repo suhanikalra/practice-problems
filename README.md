@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
 | [0290-word-pattern](https://github.com/suhanikalra/practice-problems/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/suhanikalra/practice-problems/tree/master/0290-word-pattern) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/suhanikalra/practice-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/suhanikalra/practice-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suhanikalra/practice-problems/tree/master/0219-contains-duplicate-ii) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanikalra/practice-problems/tree/master/0643-maximum-average-subarray-i) |
