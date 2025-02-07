@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/suhanikalra/practice-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suhanikalra/practice-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suhanikalra/practice-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suhanikalra/practice-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suhanikalra/practice-problems/tree/master/0202-happy-number) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/suhanikalra/practice-problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0179-largest-number](https://github.com/suhanikalra/practice-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suhanikalra/practice-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhanikalra/practice-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/suhanikalra/practice-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suhanikalra/practice-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
