@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/suhanikalra/practice-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/suhanikalra/practice-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/suhanikalra/practice-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suhanikalra/practice-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhanikalra/practice-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
