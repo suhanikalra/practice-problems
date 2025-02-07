@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/suhanikalra/practice-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/suhanikalra/practice-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/suhanikalra/practice-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/suhanikalra/practice-problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/suhanikalra/practice-problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/suhanikalra/practice-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/1250-longest-common-subsequence) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/suhanikalra/practice-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/suhanikalra/practice-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suhanikalra/practice-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhanikalra/practice-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
