@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/suhanikalra/practice-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2413-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2434-design-a-number-container-system](https://github.com/suhanikalra/practice-problems/tree/master/2434-design-a-number-container-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [2413-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/suhanikalra/practice-problems/tree/master/2434-design-a-number-container-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1180,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/suhanikalra/practice-problems/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1224,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2413-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/suhanikalra/practice-problems/tree/master/2434-design-a-number-container-system) |
 ## Game Theory
 |  |
 | ------- |
