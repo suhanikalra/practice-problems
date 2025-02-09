@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1066-fixed-point](https://github.com/suhanikalra/practice-problems/tree/master/1066-fixed-point) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/suhanikalra/practice-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhanikalra/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suhanikalra/practice-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1066-fixed-point](https://github.com/suhanikalra/practice-problems/tree/master/1066-fixed-point) |
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/suhanikalra/practice-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
