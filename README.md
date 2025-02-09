@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suhanikalra/practice-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1511-count-number-of-teams](https://github.com/suhanikalra/practice-problems/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhanikalra/practice-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1511-count-number-of-teams](https://github.com/suhanikalra/practice-problems/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2535-count-strictly-increasing-subarrays) |
@@ -1240,4 +1242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/suhanikalra/practice-problems/tree/master/0486-predict-the-winner) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/suhanikalra/practice-problems/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/suhanikalra/practice-problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
