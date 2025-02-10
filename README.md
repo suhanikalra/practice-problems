@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/suhanikalra/practice-problems/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/suhanikalra/practice-problems/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/suhanikalra/practice-problems/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/suhanikalra/practice-problems/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/suhanikalra/practice-problems/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/suhanikalra/practice-problems/tree/master/0322-coin-change) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/suhanikalra/practice-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/suhanikalra/practice-problems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/suhanikalra/practice-problems/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/suhanikalra/practice-problems/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0542-01-matrix) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/suhanikalra/practice-problems/tree/master/0279-perfect-squares) |
+| [0286-walls-and-gates](https://github.com/suhanikalra/practice-problems/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/suhanikalra/practice-problems/tree/master/0322-coin-change) |
