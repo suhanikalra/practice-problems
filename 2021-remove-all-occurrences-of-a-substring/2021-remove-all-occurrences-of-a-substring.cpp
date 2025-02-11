@@ -1,18 +1,11 @@
 class Solution {
 public:
-void remove(string &s, string part){
-    //base
-    if( s.find(part)== string::npos)return;
-
-    //ek case ka solution
-    if( s.find(part)!= string::npos)s.erase(s.find(part),part.length());
-   remove(s,part);
-
-
-}
     string removeOccurrences(string s, string part) {
-        remove(s,part);
-        return s;
+        if(s.find(part)==string::npos)return s;
 
+        auto k= s.find(part);
+        s = s.substr(0, k) + s.substr(k + part.size());
+        return removeOccurrences(s,part);
+        
     }
 };
