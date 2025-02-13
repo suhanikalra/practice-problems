@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/suhanikalra/practice-problems/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/suhanikalra/practice-problems/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/suhanikalra/practice-problems/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/suhanikalra/practice-problems/tree/master/0904-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/suhanikalra/practice-problems/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/suhanikalra/practice-problems/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/suhanikalra/practice-problems/tree/master/1036-rotting-oranges) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/suhanikalra/practice-problems/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/suhanikalra/practice-problems/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/suhanikalra/practice-problems/tree/master/1325-path-with-maximum-probability) |
 | [1916-find-center-of-star-graph](https://github.com/suhanikalra/practice-problems/tree/master/1916-find-center-of-star-graph) |
