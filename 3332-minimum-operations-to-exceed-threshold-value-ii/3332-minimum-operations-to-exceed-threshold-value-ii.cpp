@@ -7,7 +7,7 @@ public:
         }
         int count=0;
         while(pq.size()>=2){
-        if(pq.size()>=2){
+        
            auto a= pq.top();
            if(pq.top()>=k)break;
            pq.pop();
@@ -18,7 +18,7 @@ public:
            pq.push(c);
            count++;
 
-        }
+        
         }
         return count;
     }
