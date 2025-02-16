@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/suhanikalra/practice-problems/tree/master/1547-destination-city) |
 | [1666-make-the-string-great](https://github.com/suhanikalra/practice-problems/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/suhanikalra/practice-problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/suhanikalra/practice-problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/suhanikalra/practice-problems/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
