@@ -1,42 +1,39 @@
 class Solution {
 public:
-       vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans;
-        int index1 = -1, index2 = -1;
-        int n = nums.size();
-        int start = 0, end = n-1, mid;
-        mid = start + (end-start)/2;
+    int findFirstOccurrence(const vector<int>& nums, int target) {
+    int left = 0;
+    int right = nums.size() - 1;int ans=-1;
 
-        //finding first occurance
-        while(start <= end){
-            if(target == nums[mid]){
-                index1 = mid;
-                end = mid-1;
-            }
-            else if(target < nums[mid]){
-                end = mid-1;
-            }
-            else start = mid+1;
-            mid = start + (end-start)/2;
-        }
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        if(nums[mid]==target){ans= mid;right= mid-1;}
+        else if(nums[mid]>target){right=mid-1;}
+        else left= mid+1;
 
-        start = 0; end = n-1; mid = start + (end-start)/2;
-
-        //finding last occurance 
-        while(start <= end){
-            if(target == nums[mid]){
-                index2 = mid;
-                start = mid+1;
-            }
-            else if(target < nums[mid]){
-                end = mid-1;
-            }
-            else start = mid+1;
-            mid = start + (end-start)/2;
-        }
-
-        ans.push_back(index1);
-        ans.push_back(index2);
-        return ans;
     }
+    return ans;
+
+}
+int findLastOccurrence(const vector<int>& nums, int target) {
+    int left = 0;
+    int right = nums.size() - 1;int ans=-1;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        if(nums[mid]==target){ans= mid;left=mid+1;}
+        else if(nums[mid]>target){right=mid-1;}
+        else left= mid+1;
+
+    }
+    return ans;
+
+}
+
+
+vector<int> searchRange(vector<int>& nums, int target) {
+    int first = findFirstOccurrence(nums, target);
+    int last = findLastOccurrence(nums, target);
+
+    return {first, last};
+}
 };
