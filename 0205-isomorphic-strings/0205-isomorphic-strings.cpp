@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char,int>m1,m2;
+        unordered_map<char,char>m1,m2;
         for(int i=0;i<s.length();i++){
 
             if(m1[s[i]]==NULL && m2[t[i]]==NULL){
