@@ -1,32 +1,23 @@
 class Solution {
 public:
-    bool solve(int n,vector<int>& piles, int h ){
-        long long count=0 ;
-        for(auto pile: piles){
-            count+= ceil(pile/(n*1.0));
-        }
-        if (count>h )return false;
-        return true;
+bool solve(int k,vector<int>& piles, int h){
+    long long count=0;
+      for(auto p: piles){
+        count += ((p%k==0)?p/k:p/k+1);  
     }
-
-
+   
+    return count<=h;
+}
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1;
-        int high= *max_element(piles.begin(),piles.end());
-       
-int ans=0;
-        while(low<= high){
-            int mid = low + (high- low)/2;
-
-            if(solve(mid,piles,h)==true){
-                high= mid-1;
-                ans= mid;
-            }
-
-            else
-            low= mid+1;
-        } 
-
+        int start= 1;
+        int ans=0;
+        int end=*max_element(piles.begin(),piles.end());
+        while(start<=end){
+            int mid= (end-start)/2+start;
+            if(solve(mid,piles,h)){ans=mid;
+            end= mid-1;}
+            else{start= mid+1;}
+        }
         return ans;
     }
 };
