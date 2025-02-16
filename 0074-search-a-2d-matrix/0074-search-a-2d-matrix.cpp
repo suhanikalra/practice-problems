@@ -6,9 +6,11 @@ public:
         int high= m*n-1;
         while(low<=high){
             int mid= (high-low)/2+low;
-            if(matrix[mid/m][mid%n]==target)return true;
-            else if(matrix[mid/m][mid%n]>target)high=mid-1;
-            else low=mid+1;
+            int row= mid/n;
+            int col= mid%n;
+            if(matrix[row][col]==target)return true;
+            else if(matrix[row][col]>target)high= mid-1;
+            else low= mid+1; 
         }
         return false;
     }
