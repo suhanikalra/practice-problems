@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/suhanikalra/practice-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
+| [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/suhanikalra/practice-problems/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suhanikalra/practice-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/suhanikalra/practice-problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/suhanikalra/practice-problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/suhanikalra/practice-problems/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/suhanikalra/practice-problems/tree/master/0319-bulb-switcher) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/suhanikalra/practice-problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0245-shortest-word-distance-iii](https://github.com/suhanikalra/practice-problems/tree/master/0245-shortest-word-distance-iii) |
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
 | [0260-single-number-iii](https://github.com/suhanikalra/practice-problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suhanikalra/practice-problems/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/suhanikalra/practice-problems/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/suhanikalra/practice-problems/tree/master/0283-move-zeroes) |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/suhanikalra/practice-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/suhanikalra/practice-problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
@@ -754,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/suhanikalra/practice-problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suhanikalra/practice-problems/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/suhanikalra/practice-problems/tree/master/0280-wiggle-sort) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
