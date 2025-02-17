@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikalra/practice-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/suhanikalra/practice-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/suhanikalra/practice-problems/tree/master/0486-predict-the-winner) |
 | [0487-max-consecutive-ones-ii](https://github.com/suhanikalra/practice-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/suhanikalra/practice-problems/tree/master/0494-target-sum) |
