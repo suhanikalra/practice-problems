@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suhanikalra/practice-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/suhanikalra/practice-problems/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2428-equal-row-and-column-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suhanikalra/practice-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
