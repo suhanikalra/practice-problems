@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suhanikalra/practice-problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/suhanikalra/practice-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
