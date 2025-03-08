@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suhanikalra/practice-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/suhanikalra/practice-problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suhanikalra/practice-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/suhanikalra/practice-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suhanikalra/practice-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suhanikalra/practice-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suhanikalra/practice-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2890-count-substrings-without-repeating-character](https://github.com/suhanikalra/practice-problems/tree/master/2890-count-substrings-without-repeating-character) |
