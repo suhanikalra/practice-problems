@@ -1,27 +1,26 @@
-class Solution { //bad approach use minheap
+class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        vector<int>ans;
-        unordered_map <int,int>freq;
-        for(auto num: nums){
-            freq[num]++;
+        unordered_map<int, int> mp;
+        for(auto num : nums) {
+            mp[num]++;
         }
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
-       
-            
-       for (const auto& entry : freq) {
-            minHeap.push({entry.second, entry.first}); 
-            if(minHeap.size()>k){
-                minHeap.pop();
+        
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        
+        for(auto& [num, freq] : mp) {
+            pq.push({freq, num});
+            if(pq.size() > k) {
+                pq.pop();
             }
         }
-
-    
-        for (int i = 0; i < k && !minHeap.empty(); ++i) {
-            ans.push_back(minHeap.top().second); 
-            minHeap.pop();
+        
+        vector<int> ans;
+        while(!pq.empty()) {
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
-
-        return ans; 
+        
+        return ans;
     }
 };
