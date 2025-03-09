@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suhanikalra/practice-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/suhanikalra/practice-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0948-sort-an-array) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/suhanikalra/practice-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suhanikalra/practice-problems/tree/master/0724-find-pivot-index) |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/suhanikalra/practice-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/suhanikalra/practice-problems/tree/master/0941-sort-array-by-parity) |
@@ -1096,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0487-max-consecutive-ones-ii](https://github.com/suhanikalra/practice-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanikalra/practice-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhanikalra/practice-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
