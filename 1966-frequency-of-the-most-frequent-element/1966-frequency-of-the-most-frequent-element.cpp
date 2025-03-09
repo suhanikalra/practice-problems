@@ -3,24 +3,17 @@ public:
     int maxFrequency(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
 
-        int n = nums.size();
-        int maxFreq = 1;  
-        int start = n - 1;  
-        int end = n - 1;
-        long long operations = 0;  
-        
-        while (end >= 0) {
-            if (end < n - 1) {
-                operations +=(nums[start] - nums[end]);
+        int start = 0, maxFreq = 0;
+        long long sum = 0; 
+        for (int end = 0; end < nums.size(); end++) {
+            sum += nums[end]; 
+
+            while ((long long)(end - start + 1) * nums[end] - sum > k) {
+                sum -= nums[start]; 
+                start++; 
             }
-            
-            while (operations > k && start > end) {
-                operations -= (nums[start] - nums[start-1]) * (start - end);
-                start--;
-            }
-            
-            maxFreq = max(maxFreq, start - end + 1);
-            end--;
+
+            maxFreq = max(maxFreq, end - start + 1); 
         }
         
         return maxFreq;
