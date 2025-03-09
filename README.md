@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0762-find-anagram-mappings](https://github.com/suhanikalra/practice-problems/tree/master/0762-find-anagram-mappings) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/suhanikalra/practice-problems/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhanikalra/practice-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/suhanikalra/practice-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/suhanikalra/practice-problems/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/suhanikalra/practice-problems/tree/master/0812-rotate-string) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/suhanikalra/practice-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/suhanikalra/practice-problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0948-sort-an-array) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
@@ -1220,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suhanikalra/practice-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/suhanikalra/practice-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1160-letter-tile-possibilities](https://github.com/suhanikalra/practice-problems/tree/master/1160-letter-tile-possibilities) |
