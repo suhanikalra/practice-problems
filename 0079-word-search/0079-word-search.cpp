@@ -1,37 +1,42 @@
 class Solution {
 public:
-    bool solve(vector<vector<char>>& board, int i, int j, string& word,
-               int index) {
-
-        if (index == word.length())
-            return true;
-        if (i < 0 || j < 0 || i >= board.size() or j >= board[0].size() ||
-            board[i][j] != word[index])
+    bool dfs(int i, int j, vector<vector<char>>& board, string& word, int index) {
+        if (index == word.size()) return true;
+        if (i < 0 || i >= board.size() || j < 0 || j >= board[0].size() || board[i][j] == '*' || board[i][j] != word[index]) 
             return false;
-        if (board[i][j] == '#')
-            return false;
-
+        
         char temp = board[i][j];
-        board[i][j] = '#';
-        bool res = solve(board, i + 1, j, word,index+1) or
-                   solve(board, i, j + 1, word, index+1) or
-                   solve(board, i - 1, j, word, index+1) or
-                   solve(board, i, j - 1, word, index+1);
-        board[i][j] = temp;
-        return res;
-    }
+        board[i][j] = '*';
+        
+        int dx[] = {1, -1, 0, 0};
+        int dy[] = {0, 0, 1, -1};
+        bool found = false;
+        for (int p = 0; p < 4; p++) {
+            int newx = i + dx[p];
+            int newy = j + dy[p];
 
+            if (dfs(newx, newy, board, word, index + 1)) {
+                found = true;
+                break;
+            }
+        }
+        
+        board[i][j] = temp;
+        return found;
+    }
     bool exist(vector<vector<char>>& board, string word) {
-     
-        bool a = false;
-        for (int i = 0; i < board.size(); i++) {
-            for (int j = 0; j < board[0].size(); j++) {
-                if (board[i][j] == word[0]) {
-                    if (solve(board, i, j, word, 0) == true)
-                        return true;
+        bool k= false;
+        for(int i=0;i<board.size();i++){
+            for(int j=0;j<board[0].size();j++){
+                if(board[i][j]==word[0]){
+                    k=k or dfs(i,j,board,word,0);
                 }
             }
         }
-        return false;
+        return k;
+
+        
+
+
     }
 };
