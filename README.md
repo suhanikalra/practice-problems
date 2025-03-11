@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/suhanikalra/practice-problems/tree/master/0953-reverse-only-letters) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/suhanikalra/practice-problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/suhanikalra/practice-problems/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/suhanikalra/practice-problems/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suhanikalra/practice-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/suhanikalra/practice-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
