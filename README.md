@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/suhanikalra/practice-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/suhanikalra/practice-problems/tree/master/2727-number-of-senior-citizens) |
 | [2890-count-substrings-without-repeating-character](https://github.com/suhanikalra/practice-problems/tree/master/2890-count-substrings-without-repeating-character) |
+| [3195-separate-black-and-white-balls](https://github.com/suhanikalra/practice-problems/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanikalra/practice-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/suhanikalra/practice-problems/tree/master/3447-clear-digits) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/suhanikalra/practice-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/suhanikalra/practice-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+| [3195-separate-black-and-white-balls](https://github.com/suhanikalra/practice-problems/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanikalra/practice-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
