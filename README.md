@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suhanikalra/practice-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suhanikalra/practice-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/suhanikalra/practice-problems/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/suhanikalra/practice-problems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suhanikalra/practice-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/suhanikalra/practice-problems/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/suhanikalra/practice-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanikalra/practice-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/suhanikalra/practice-problems/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
