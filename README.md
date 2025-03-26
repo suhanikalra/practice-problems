@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhanikalra/practice-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suhanikalra/practice-problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/suhanikalra/practice-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhanikalra/practice-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suhanikalra/practice-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/suhanikalra/practice-problems/tree/master/1380-number-of-closed-islands) |
 | [1677-matrix-diagonal-sum](https://github.com/suhanikalra/practice-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhanikalra/practice-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/suhanikalra/practice-problems/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suhanikalra/practice-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/suhanikalra/practice-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhanikalra/practice-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suhanikalra/practice-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
