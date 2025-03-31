@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/suhanikalra/practice-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/suhanikalra/practice-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/suhanikalra/practice-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/suhanikalra/practice-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/suhanikalra/practice-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/suhanikalra/practice-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/suhanikalra/practice-problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/suhanikalra/practice-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/suhanikalra/practice-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
