@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/suhanikalra/practice-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
+| [0266-palindrome-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/suhanikalra/practice-problems/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0245-shortest-word-distance-iii](https://github.com/suhanikalra/practice-problems/tree/master/0245-shortest-word-distance-iii) |
 | [0249-group-shifted-strings](https://github.com/suhanikalra/practice-problems/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
+| [0266-palindrome-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/suhanikalra/practice-problems/tree/master/0290-word-pattern) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/suhanikalra/practice-problems/tree/master/0344-reverse-string) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/suhanikalra/practice-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/suhanikalra/practice-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/suhanikalra/practice-problems/tree/master/0260-single-number-iii) |
+| [0266-palindrome-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
