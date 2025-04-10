@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/suhanikalra/practice-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/suhanikalra/practice-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0234-palindrome-linked-list) |
+| [0277-find-the-celebrity](https://github.com/suhanikalra/practice-problems/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/suhanikalra/practice-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/suhanikalra/practice-problems/tree/master/0344-reverse-string) |
@@ -1207,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/suhanikalra/practice-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
+| [0277-find-the-celebrity](https://github.com/suhanikalra/practice-problems/tree/master/0277-find-the-celebrity) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
@@ -1360,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/suhanikalra/practice-problems/tree/master/0277-find-the-celebrity) |
 | [0374-guess-number-higher-or-lower](https://github.com/suhanikalra/practice-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/suhanikalra/practice-problems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 ## Memoization
