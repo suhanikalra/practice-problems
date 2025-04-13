@@ -12,7 +12,7 @@ public:
     int search(const ArrayReader& reader, int target) {
         int start=0; int end= 1;
         while(reader.get(end)<target){
-            end= end*2;
+            start=end; end= end*2;
 
         }
         while(start<=end){
