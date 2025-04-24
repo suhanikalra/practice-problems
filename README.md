@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suhanikalra/practice-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suhanikalra/practice-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2890-count-substrings-without-repeating-character](https://github.com/suhanikalra/practice-problems/tree/master/2890-count-substrings-without-repeating-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/suhanikalra/practice-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanikalra/practice-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/suhanikalra/practice-problems/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suhanikalra/practice-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/suhanikalra/practice-problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/suhanikalra/practice-problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/suhanikalra/practice-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suhanikalra/practice-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suhanikalra/practice-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suhanikalra/practice-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2890-count-substrings-without-repeating-character](https://github.com/suhanikalra/practice-problems/tree/master/2890-count-substrings-without-repeating-character) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/suhanikalra/practice-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/suhanikalra/practice-problems/tree/master/3483-alternating-groups-ii) |
