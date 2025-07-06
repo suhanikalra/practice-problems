@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/suhanikalra/practice-problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhanikalra/practice-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/suhanikalra/practice-problems/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/suhanikalra/practice-problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
