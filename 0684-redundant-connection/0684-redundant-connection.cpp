@@ -1,47 +1,32 @@
 class Solution {
 public:
+    bool dfs(int node, int parent, vector<vector<int>>& adj, vector<bool>& vis) {
+        vis[node] = true;
+
+        for (int nbr : adj[node]) {
+            if (!vis[nbr]) {
+                if (dfs(nbr, node, adj, vis)) return true;
+            } else if (nbr != parent) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        vector<vector<int>> adj(n + 1);
-        vector<int> indegree(n + 1, 0);
-        queue<int> q;
+        vector<vector<int>> adj(n + 1);   
 
-      
-        for (const auto& edge : edges) {
-            adj[edge[0]].push_back(edge[1]);
-            adj[edge[1]].push_back(edge[0]);
-            indegree[edge[0]]++;
-            indegree[edge[1]]++;
-        }
+        for (auto& e : edges) {
+            int u = e[0], v = e[1];
 
-       
-        for (int i = 1; i <= n; i++) {
-            if (indegree[i] == 1) {
-                q.push(i);
-            }
-        }
+            
+            adj[u].push_back(v);
+            adj[v].push_back(u);
 
-        unordered_set<int> s;
-
-       
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-            s.insert(node);
-
-            for (int neighbor : adj[node]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 1) {
-                    q.push(neighbor);
-                }
-            }
-        }
-
-        
-        vector<int> ans;
-        for (int i = n - 1; i >= 0; i--) {
-            if (s.find(edges[i][0]) == s.end() && s.find(edges[i][1]) == s.end()) {
-                return edges[i];  
+            vector<bool> vis(n + 1, false);
+            if (dfs(u, -1, adj, vis)) {
+                return e;  
             }
         }
 
