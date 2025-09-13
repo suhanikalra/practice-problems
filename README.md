@@ -1230,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
 | [0277-find-the-celebrity](https://github.com/suhanikalra/practice-problems/tree/master/0277-find-the-celebrity) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/suhanikalra/practice-problems/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/suhanikalra/practice-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/suhanikalra/practice-problems/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0820-find-eventual-safe-states](https://github.com/suhanikalra/practice-problems/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/suhanikalra/practice-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String Matching
