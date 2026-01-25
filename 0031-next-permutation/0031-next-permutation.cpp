@@ -5,8 +5,7 @@ public:
         for(int i=nums.size()-1;i>=1;i--){
             if( nums[i-1]<nums[i]){
                  toswap= i-1;break;
-            }
-            
+            }        
         }
         if(toswap==-1){reverse(nums.begin(),nums.end());return;}
 
@@ -21,7 +20,4 @@ public:
         
         return;
     }
-    
-
-
 };
