@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/suhanikalra/practice-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/suhanikalra/practice-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhanikalra/practice-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/suhanikalra/practice-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/suhanikalra/practice-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/suhanikalra/practice-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/suhanikalra/practice-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhanikalra/practice-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhanikalra/practice-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/suhanikalra/practice-problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/suhanikalra/practice-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhanikalra/practice-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/suhanikalra/practice-problems/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suhanikalra/practice-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suhanikalra/practice-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
