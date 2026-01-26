@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-find-anagram-mappings](https://github.com/suhanikalra/practice-problems/tree/master/0762-find-anagram-mappings) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/suhanikalra/practice-problems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/suhanikalra/practice-problems/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/suhanikalra/practice-problems/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/suhanikalra/practice-problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
+| [0860-lemonade-change](https://github.com/suhanikalra/practice-problems/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/suhanikalra/practice-problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
