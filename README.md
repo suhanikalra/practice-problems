@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/suhanikalra/practice-problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/suhanikalra/practice-problems/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/suhanikalra/practice-problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/suhanikalra/practice-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/suhanikalra/practice-problems/tree/master/1293-three-consecutive-odds) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1200-minimum-absolute-difference](https://github.com/suhanikalra/practice-problems/tree/master/1200-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/suhanikalra/practice-problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
