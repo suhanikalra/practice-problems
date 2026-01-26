@@ -18,7 +18,7 @@ public:
             node=node->next;
             
         }
-        if( node->next==NULL)prev->next=NULL;
+        if( node->next==NULL)prev->next=NULL;delete(node);
 
 
         
