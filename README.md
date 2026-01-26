@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suhanikalra/practice-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/suhanikalra/practice-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/suhanikalra/practice-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/suhanikalra/practice-problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/suhanikalra/practice-problems/tree/master/0063-unique-paths-ii) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suhanikalra/practice-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/suhanikalra/practice-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suhanikalra/practice-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/suhanikalra/practice-problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/suhanikalra/practice-problems/tree/master/0179-largest-number) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suhanikalra/practice-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/suhanikalra/practice-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/suhanikalra/practice-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suhanikalra/practice-problems/tree/master/0064-minimum-path-sum) |
