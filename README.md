@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/suhanikalra/practice-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/suhanikalra/practice-problems/tree/master/1894-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suhanikalra/practice-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/suhanikalra/practice-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/suhanikalra/practice-problems/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/suhanikalra/practice-problems/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [3447-clear-digits](https://github.com/suhanikalra/practice-problems/tree/master/3447-clear-digits) |
