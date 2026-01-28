@@ -1,28 +1,16 @@
-
 class Solution {
 public:
-    bool palindRE(const string& s, int start, int end) {
-      if (start >= end) {
-            return true;
-        }
-        
-        while (start < end && !isalnum(s[start])) {
-            start++;
-        }
-       
-        while (start < end && !isalnum(s[end])) {
-            end--;
-        }
-        
-       
-        if (tolower(s[start]) != tolower(s[end])) {
-            return false;
-        }
-        
-        return palindRE(s, start + 1, end - 1);
-    }
-
     bool isPalindrome(string s) {
-        return palindRE(s, 0, s.size() - 1);
+        if(s.size()<=1)return true;
+        int i=0;int j=s.size()-1;
+        while( i<j){
+            while( i<j and !isalnum(s[i]))i++;
+            while(i<j and !isalnum(s[j]))j--;
+           
+            if(tolower(s[i])!=tolower(s[j]))return false;
+            i++; j--;
+        }
+        return true;
+        
     }
 };
