@@ -11,16 +11,39 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root, int curr) {
-        if (root == nullptr) return 0;
-        curr = curr * 10 + root->val;
-        if (root->left == nullptr && root->right == nullptr) return curr;
-        int l = solve(root->left, curr);
-        int r = solve(root->right, curr);
-        return l + r;
+    /**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+    int sum=0;
+
+    void solve(TreeNode* root,int curr){
+        if( root==NULL)return;
+        curr=curr*10+ root->val;
+        if(root->left==NULL && root->right==NULL)sum+=curr;
+        solve( root->left,curr);
+        solve(root->right,curr);
     }
 
     int sumNumbers(TreeNode* root) {
-        return solve(root, 0);
+        sum=0;
+        if( root==NULL)return 0;
+        int curr=0;
+          solve(root,curr);
+          return sum;
+        
     }
+
 };
