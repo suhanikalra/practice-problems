@@ -11,23 +11,26 @@
  */
 class Solution {
 public:
-int solve(TreeNode* root,  unordered_map<int,vector<int>>&mp){
-    if(root==NULL)return 0;
-    int lh= solve(root->left,mp);
-    int rh= solve(root->right,mp);
-
-    int height= max(lh,rh)+1;
-    mp[height].push_back(root->val);
-    return height;
+map<int,vector<int>>mp;
+int solve(TreeNode* root){
+     if(root==NULL)return 0;
+        auto lh= solve(root->left);
+        auto rh= solve(root->right);
+        auto k= max(lh,rh)+1;
+        mp[k].push_back(root->val);
+        return k;
 }
     vector<vector<int>> findLeaves(TreeNode* root) {
-        unordered_map<int,vector<int>>mp;
-        int k=solve(root,mp);
-         vector<vector<int>> ans;
-        for(int i=1;i<=k;i++){
-            ans.push_back(mp[i]);
+        if(root==NULL)return {};
+        solve(root);
+        vector<vector<int>>ans;
+        for(auto &k: mp){
+            ans.push_back(k.second);
+            
         }
-       
-        return ans;
+
+
+       return ans;
+        
     }
 };
