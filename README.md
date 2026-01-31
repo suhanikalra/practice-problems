@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
+| [0285-inorder-successor-in-bst](https://github.com/suhanikalra/practice-problems/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suhanikalra/practice-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/suhanikalra/practice-problems/tree/master/0268-missing-number) |
+| [0285-inorder-successor-in-bst](https://github.com/suhanikalra/practice-problems/tree/master/0285-inorder-successor-in-bst) |
 | [0287-find-the-duplicate-number](https://github.com/suhanikalra/practice-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/suhanikalra/practice-problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
+| [0285-inorder-successor-in-bst](https://github.com/suhanikalra/practice-problems/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
@@ -1105,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suhanikalra/practice-problems/tree/master/0257-binary-tree-paths) |
+| [0285-inorder-successor-in-bst](https://github.com/suhanikalra/practice-problems/tree/master/0285-inorder-successor-in-bst) |
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0366-find-leaves-of-binary-tree) |
