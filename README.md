@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suhanikalra/practice-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/suhanikalra/practice-problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0762-find-anagram-mappings](https://github.com/suhanikalra/practice-problems/tree/master/0762-find-anagram-mappings) |
+| [0766-toeplitz-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0766-toeplitz-matrix) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/suhanikalra/practice-problems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/suhanikalra/practice-problems/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/suhanikalra/practice-problems/tree/master/0860-lemonade-change) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suhanikalra/practice-problems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0766-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/suhanikalra/practice-problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
