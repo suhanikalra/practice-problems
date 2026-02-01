@@ -12,18 +12,20 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         stack<int>st;
-        ListNode* curr=head;
-        
+        ListNode* curr= head;
         while(curr){
             st.push(curr->val);
-            curr=curr->next;
+            curr= curr->next;
         }
 
-        curr=head;
-        while(!st.empty()){
-            if(curr->val!=st.top())return false;
-            st.pop();curr=curr->next;
+        curr= head;
+        while(curr){
+            if( curr->val!= st.top()){return false;}
+            st.pop();
+            curr= curr->next;
         }
         return true;
+
+        
     }
 };
