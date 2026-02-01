@@ -4,7 +4,6 @@ public:
         if (strs.empty())
             return "";
         sort(strs.begin(), strs.end());
-        sort(strs.begin(), strs.end());
 
         string first = strs[0];
         string last = strs.back();
