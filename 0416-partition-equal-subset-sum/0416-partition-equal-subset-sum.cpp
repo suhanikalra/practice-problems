@@ -1,11 +1,12 @@
 class Solution {
 public:
 bool solve( int i, int sum,int curr,vector<int>& nums,vector<vector<int>>&dp){
-    if( i>=nums.size())return sum==curr;
-    if(curr>sum)return false;
     if( curr==sum)return true;
-    if (dp[i][sum] != -1) return dp[i][sum];  
-     return dp[i][sum] = solve( i+1,sum,curr+nums[i],nums,dp) or solve( i+1,sum,curr,nums,dp) ;
+    if( i>=nums.size())return false;
+    if(curr>sum)return false;
+    
+    if (dp[i][curr] != -1) return dp[i][curr];  
+     return dp[i][curr] = solve( i+1,sum,curr+nums[i],nums,dp) or solve( i+1,sum,curr,nums,dp) ;
     
 }
     bool canPartition(vector<int>& nums) {
