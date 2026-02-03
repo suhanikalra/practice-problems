@@ -16,6 +16,6 @@ bool solve( int i, int sum,int curr,vector<int>& nums,vector<vector<int>>&dp){
         if( sum%2==1)return false;
         vector<vector<int>>dp(nums.size(),vector<int>(sum/2+1,-1));
 
-        return solve( 0,sum,0,nums,dp);
+        return solve( 0,sum/2,0,nums,dp);
     }
 };
