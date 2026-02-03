@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/suhanikalra/practice-problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/suhanikalra/practice-problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/suhanikalra/practice-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/suhanikalra/practice-problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suhanikalra/practice-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/suhanikalra/practice-problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suhanikalra/practice-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/suhanikalra/practice-problems/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suhanikalra/practice-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
