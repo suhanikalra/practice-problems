@@ -1085,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/suhanikalra/practice-problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/suhanikalra/practice-problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
@@ -1298,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/suhanikalra/practice-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suhanikalra/practice-problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suhanikalra/practice-problems/tree/master/1477-product-of-the-last-k-numbers) |
