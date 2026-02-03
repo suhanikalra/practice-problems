@@ -4,7 +4,8 @@ bool solve( int i, int sum,int curr,vector<int>& nums,vector<vector<int>>&dp){
     if( i>=nums.size())return sum==curr;
     if(curr>sum)return false;
     if( curr==sum)return true;
-    return  solve( i+1,sum,curr+nums[i],nums,dp) or solve( i+1,sum,curr,nums,dp) ;
+    if (dp[i][sum] != -1) return dp[i][sum];  
+     return dp[i][sum] = solve( i+1,sum,curr+nums[i],nums,dp) or solve( i+1,sum,curr,nums,dp) ;
     
 }
     bool canPartition(vector<int>& nums) {
