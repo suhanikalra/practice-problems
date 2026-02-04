@@ -62,7 +62,7 @@ public: void delNode(Node* node){
         Node* lru = tail->prev;
         cache.erase(lru->key);
         delNode(lru);
-        delete lru;
+       
     }
 
     Node* newNode = new Node();
