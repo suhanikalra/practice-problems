@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/suhanikalra/practice-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/suhanikalra/practice-problems/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suhanikalra/practice-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suhanikalra/practice-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/suhanikalra/practice-problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/suhanikalra/practice-problems/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/suhanikalra/practice-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/suhanikalra/practice-problems/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suhanikalra/practice-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/suhanikalra/practice-problems/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/suhanikalra/practice-problems/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1292,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/suhanikalra/practice-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/suhanikalra/practice-problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suhanikalra/practice-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/suhanikalra/practice-problems/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Sliding Window
 |  |
 | ------- |
