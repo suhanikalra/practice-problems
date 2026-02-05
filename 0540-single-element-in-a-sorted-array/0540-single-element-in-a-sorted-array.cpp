@@ -1,26 +1,20 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        if(nums.size()==1)return nums[0];
-        int low=0;int high= nums.size()-1;
-        while(low<high){
-            int mid= (high-low)/2+low;
-            
-            //even mid
-            if(mid%2==0){
-               if(nums[mid]==nums[mid+1])low= mid+2;
-                else high= mid-1;
-            }
+        int l=0,h= nums.size()-1;
+        int mid= (h-l)/2+l;
 
+//[1,1,2,3,3,4,4,8,8]
+// 0 1 2 3 4 5 6 7 8 
 
-            //odd mid
-            else if(mid%2==1){
-                if(nums[mid]==nums[mid+1])high=mid-2;
-                else low= mid+1;
-
-            }
+        while(l<h){
+            mid= (h-l)/2+l;
+             if (mid % 2 == 1) mid--; 
+            if( mid%2==0 )
+            { if( nums[mid]==nums[mid+1]){l= mid+2;}
+            else h= mid;}
+          
         }
-        return nums[low];
-        
+return nums[l];
     }
 };
