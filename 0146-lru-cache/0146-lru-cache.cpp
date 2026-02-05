@@ -1,81 +1,79 @@
 class Node{
-  public:
+    public: 
+    int val;
     int key;
-    int value;
-    Node* prev;
     Node* next;
+    Node* prev;
+   
 };
-
 class LRUCache {
 public:
-map<int , Node* >cache;
+
+unordered_map<int,Node*>cache;//key, address;
+int capacity;
 Node* head;
 Node* tail;
-int capacity;
-public: void addNode(Node* node){
-    Node* nextNode= head->next;
-    head->next= node;
-    node->next=nextNode;
-    node->prev=head;
-    nextNode->prev= node;
-}
-public: void delNode(Node* node){
-    Node* nextNode= node->next;
-    node->prev->next=nextNode;
-    nextNode->prev= node->prev;
-    
-}
 
- 
+ public: void addNode(Node* node){
+Node* nextNode= head->next;
+head->next= node;
+node->prev= head;
+node->next= nextNode;
+nextNode->prev=node;
+ }
+  public: void delNode( Node* node){
+    node->prev->next= node->next;
+    node->next->prev= node->prev;
+  }
+
+
     LRUCache(int capacity) {
-        this->capacity= capacity;
-        tail= new Node();
-        head= new Node();
+        this->capacity = capacity;
+         head=new Node();
+         tail= new Node();
         head->next= tail;
+        tail->next=NULL;
         head->prev= NULL;
-        tail->next= NULL;
         tail->prev= head;
     }
     
     int get(int key) {
-        if( cache.find( key)!= cache.end()){
-            Node* oldNode= cache[key];
-            delNode(oldNode);
-            addNode(oldNode);
-            return oldNode->value;
-        
-        } 
+        if(cache.find(key)!= cache.end()){
+       
+        delNode(cache[key]);
+         addNode(cache[key]);
+        return cache[key]->val;}
         return -1;
+        
     }
     
     void put(int key, int value) {
-
+   
     if (cache.find(key) != cache.end()) {
         Node* node = cache[key];
-        node->value = value;
+        node->val = value;
         delNode(node);
         addNode(node);
         return;
     }
 
+ 
     if (cache.size() == capacity) {
-        Node* lru = tail->prev;
-        cache.erase(lru->key);
+        Node* lru = tail->prev;       
         delNode(lru);
-       
+        cache.erase(lru->key);
+        delete lru;
     }
 
+  
     Node* newNode = new Node();
     newNode->key = key;
-    newNode->value = value;
+    newNode->val = value;
 
-    cache[key] = newNode;
     addNode(newNode);
+    cache[key] = newNode;
 }
 
-
-        
-    
 };
 
 /**
