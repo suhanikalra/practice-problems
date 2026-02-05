@@ -10,31 +10,48 @@
  */
 class Solution {
 public:
-ListNode* merge( ListNode*list1,ListNode*list2){
-    if(list1==NULL and list2==NULL)return NULL;
-    if(list1==NULL)return list2;
-    if(list2==NULL)return list1;
+ListNode* solve(ListNode* l1,ListNode* l2){
+if( l1==NULL )return l2;
+if( l2==NULL)return l1;
 
-    if(list1->val<=list2->val){list1->next=(merge(list1->next,list2));return list1;}
-   else{list2->next=(merge(list2->next,list1));return list2;}
+ListNode* dummy= new ListNode(0);
+ListNode* head= dummy;
+while( l1!=NULL and l2!=NULL){
+    if(l1->val>l2->val){
+        dummy->next=l2;
+        l2=l2->next;
+    }
+    else if(l2->val>=l1->val){
+        dummy->next=l1;
+        l1=l1->next;
+    }
+    dummy= dummy->next;
+}
+if(l1!=nullptr)
+        {
+            dummy->next = l1;
+        }
+        if(l2!=nullptr)
+        {
+            dummy->next = l2;
+        }
 
-
+        return head->next;
 
 }
- ListNode* mergeK(vector<ListNode*>& lists,ListNode*mergeList,int i){
-    if(i== lists.size()){
-        return mergeList;
+        ListNode*  merge(int start,int end,vector<ListNode*>& lists){
+        if( start == end)return lists[start];
+        int mid= (end-start)/2+start;
+        auto a = merge(start,mid,lists);
+        auto b = merge(mid+1,end,lists);
+        return solve(a,b);
+        
+
     }
-        mergeList = merge(lists[i], mergeList);
-        return mergeK(lists, mergeList, i + 1);
-   
-    
-
- }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-      if (lists.empty()) return nullptr;
-
-        ListNode* mergeList = nullptr; 
-        return mergeK(lists, mergeList, 0);
+        if(lists.size()==0)return nullptr;
+        int n = lists.size()-1;
+        return merge(0,n,lists);
+        
     }
 };
