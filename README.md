@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/suhanikalra/practice-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhanikalra/practice-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/suhanikalra/practice-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/suhanikalra/practice-problems/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suhanikalra/practice-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suhanikalra/practice-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhanikalra/practice-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/suhanikalra/practice-problems/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhanikalra/practice-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
