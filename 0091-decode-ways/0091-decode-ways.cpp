@@ -1,0 +1,38 @@
+class Solution {
+public:
+int solve(int i, string &s,vector<int>&dp) {
+        if (i == s.size()) return 1;
+        if (s[i] == '0') return 0;
+        if( dp[i]!=-1)return dp[i];
+
+        int one = 0, two = 0;
+
+        int d1 = s[i] - '0';
+        one = solve(i + 1, s,dp);
+
+        if (i + 1 < s.size()) {
+            int d2 = (s[i] - '0') * 10 + (s[i + 1] - '0');
+            if (d2 <= 26)
+                two = solve(i + 2, s,dp);
+        }
+
+        return dp[i] = one + two;
+    }
+    int numDecodings(string s) {
+      vector<int>dp(s.size(),-1);
+       return solve(0,s,dp);
+    }
+};
+/*
+i= 0 s= 226
+
+one = BBF
+tw0= WF
+
+
+
+
+
+
+*/
+
