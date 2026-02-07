@@ -7,7 +7,7 @@ int solve(int i, string &s,vector<int>&dp) {
 
         int one = 0, two = 0;
 
-        int d1 = s[i] - '0';
+        
         one = solve(i + 1, s,dp);
 
         if (i + 1 < s.size()) {
