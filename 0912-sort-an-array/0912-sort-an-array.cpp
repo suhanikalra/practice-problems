@@ -1,34 +1,35 @@
 class Solution {
 public:
-    void merge(int start, int mid, int end, vector<int>& nums) {
+    vector<int> merge(vector<int>&a, vector<int> &b) {
         vector<int> temp;
-        int i = start, j = mid + 1;
-
-        while (i <= mid && j <= end) {
-            if (nums[i] <= nums[j])
-                temp.push_back(nums[i++]);
-            else
-                temp.push_back(nums[j++]);
-        }
-
-        while (i <= mid) temp.push_back(nums[i++]);
-        while (j <= end) temp.push_back(nums[j++]);
-
-        for (int k = 0; k < temp.size(); k++)
-            nums[start + k] = temp[k];
+       int i = 0, j = 0;
+         while (i < a.size() && j < b.size()) {
+            if( a[i]>b[j]){
+                temp.push_back(b[j++]);
+            }
+            else{
+                temp.push_back(a[i++]);
+            }
+         }
+         while (i < a.size()) temp.push_back(a[i++]);
+        while (j < b.size()) temp.push_back(b[j++]);
+        return temp;
+        
     }
-
-    void mergesort(int start, int end, vector<int>& nums) {
-        if (start >= end) return;
-
-        int mid = start + (end - start) / 2;
-        mergesort(start, mid, nums);
-        mergesort(mid + 1, end, nums);
-        merge(start, mid, end, nums);
+    
+    
+    vector<int> solve( int low,int high,vector<int>& nums){
+        //edge case
+        if(low == high)return {nums[low]};
+        int mid= (high-low)/2+ low;
+        vector<int> a=solve(low,mid,nums); //a is a sorted array
+        vector<int> b=solve( mid+1,high,nums);
+        return merge( a, b);
+        
     }
-
+    
     vector<int> sortArray(vector<int>& nums) {
-        mergesort(0, nums.size() - 1, nums);
-        return nums;
+        int n= nums.size()-1;
+       return solve( 0, n,nums);
     }
 };
