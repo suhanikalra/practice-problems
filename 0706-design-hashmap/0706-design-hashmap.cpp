@@ -1,20 +1,21 @@
 class MyHashMap {
 public:
+    static const int MOD = 1009;
     struct Node {
         int key, val;
         Node* next;
         Node(int k, int v) : key(k), val(v), next(NULL) {}
     };
 
-    Node* head;
+    vector<Node*> table;
 
-    MyHashMap() {
-        head = NULL;
-    }
+    MyHashMap() { table.assign(MOD, nullptr); }
+    int hash(int key) { return key % MOD; }
 
     void put(int key, int value) {
-        Node* curr = head;
-
+        int idx = key % MOD;
+        Node* row = table[key % MOD];
+        Node* curr = row;
         while (curr) {
             if (curr->key == key) {
                 curr->val = value;
@@ -23,31 +24,36 @@ public:
             curr = curr->next;
         }
 
-        Node* temp = new Node(key, value);
-        temp->next = head;
-        head = temp;
+        Node* node = new Node(key, value);
+        node->next = table[idx];
+        table[idx] = node;
     }
 
     int get(int key) {
-        Node* curr = head;
+        Node* row = table[key % MOD];
+        Node* curr = row;
         while (curr) {
-            if (curr->key == key)
+            if (curr->key == key) {
                 return curr->val;
+            }
             curr = curr->next;
         }
         return -1;
     }
 
     void remove(int key) {
-        Node* curr = head;
-        Node* prev = NULL;
+        int idx = key % MOD;
+        Node* curr = table[idx];
+        Node* prev = nullptr;
 
         while (curr) {
             if (curr->key == key) {
-                if (prev)
+                if (prev == nullptr) {
+                    table[idx] = curr->next;
+                } else {
+
                     prev->next = curr->next;
-                else
-                    head = curr->next;
+                }
                 delete curr;
                 return;
             }
