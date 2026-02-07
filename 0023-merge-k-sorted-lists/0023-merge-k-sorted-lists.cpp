@@ -10,26 +10,44 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-         auto cmp = [](ListNode* l, ListNode* r) { return l->val > r->val; };
-        priority_queue<ListNode*, vector<ListNode*>,decltype(cmp)> pq(cmp);
-        for( auto l: lists){ if( l)pq.push(l);
-        }
-        ListNode* dummy= new ListNode(0);
-        ListNode* head= dummy;
-
-        while( !pq.empty()){
-            ListNode* temp= pq.top();
-            dummy->next= pq.top();
-            pq.pop();
-            if(temp->next)pq.push(temp->next);
-            dummy=dummy->next;
+ListNode* merge(ListNode* list1, ListNode* list2) {
+        
+        ListNode* curr1= list1;
+        ListNode* curr2= list2;
+        ListNode* head=new ListNode(0);
+        ListNode* temp= head;
+        
+ 
+        while( curr1 and curr2){
+            if( curr1->val>curr2->val){
+                temp->next= curr2;
+                curr2=curr2->next;
+            }
+            else if( curr1->val<=curr2->val){
+                temp->next= curr1;
+                curr1=curr1->next;
+                
+            }
+            temp= temp->next;
             
-
         }
+        if( curr1)temp->next= curr1;
+        else if( curr2)temp->next= curr2;
         return head->next;
-
-
-          
+        
+    }
+ListNode*solve(int start,int end,vector<ListNode*>& lists){
+    if(start==end)return lists[start];
+    int mid= (end-start)/2+start;
+    auto a=solve(start,mid,lists);
+    auto b=solve(mid+1,end,lists);
+    return merge(a,b);
+    
+    
+}
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        ///idk
+        if(lists.size()==0)return NULL;
+       return solve( 0,lists.size()-1,lists); 
     }
 };
