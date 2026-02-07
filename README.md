@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suhanikalra/practice-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0582-kill-process](https://github.com/suhanikalra/practice-problems/tree/master/0582-kill-process) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0694-number-of-distinct-islands](https://github.com/suhanikalra/practice-problems/tree/master/0694-number-of-distinct-islands) |
+| [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0762-find-anagram-mappings](https://github.com/suhanikalra/practice-problems/tree/master/0762-find-anagram-mappings) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suhanikalra/practice-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/suhanikalra/practice-problems/tree/master/0724-find-pivot-index) |
@@ -1432,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/suhanikalra/practice-problems/tree/master/0694-number-of-distinct-islands) |
+| [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 ## Quickselect
 |  |
 | ------- |
@@ -1541,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suhanikalra/practice-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/suhanikalra/practice-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
