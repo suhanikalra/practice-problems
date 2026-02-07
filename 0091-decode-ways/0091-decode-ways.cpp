@@ -11,8 +11,7 @@ int solve(int i, string &s,vector<int>&dp) {
         one = solve(i + 1, s,dp);
 
         if (i + 1 < s.size()) {
-            int d2 = (s[i] - '0') * 10 + (s[i + 1] - '0');
-            if (d2 <= 26)
+             if (s[i] == '1' || (s[i] == '2' && s[i + 1] <= '6'))
                 two = solve(i + 2, s,dp);
         }
 
@@ -23,16 +22,5 @@ int solve(int i, string &s,vector<int>&dp) {
        return solve(0,s,dp);
     }
 };
-/*
-i= 0 s= 226
 
-one = BBF
-tw0= WF
-
-
-
-
-
-
-*/
 
