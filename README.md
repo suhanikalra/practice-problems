@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suhanikalra/practice-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1546,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0707-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suhanikalra/practice-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/suhanikalra/practice-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
