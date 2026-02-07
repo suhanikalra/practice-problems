@@ -11,8 +11,8 @@ class Node{
 
 class MyLinkedList {
 public:
-    Node* head;
-    Node* tail;
+  Node* head = nullptr;
+Node* tail = nullptr;
     int size;
 
     MyLinkedList() {
