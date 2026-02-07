@@ -1,23 +1,34 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        int n= board.size();
-        unordered_set<char> rows[9];
-        unordered_set<char> cols[9];
-        unordered_set<char> boxes[9];
+        for (int i = 0; i < board.size(); i++) {
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] == '.')
+                    continue;
+                else {
+                    auto x = board[i][j];
+                    for (int k = 0; k < 9; k++) {
 
-        for(int i=0; i<n;i++){
-            for(int j=0;j<n;j++){
-                if (board[i][j] == '.') continue;
-            if(rows[i].find(board[i][j])==rows[i].end()) {rows[i].insert(board[i][j]);}
-            else return false;
-             if(cols[j].find(board[i][j])==cols[j].end()) {cols[j].insert(board[i][j]);}
-            else return false;
-             int boxIndex = (i / 3) * 3 + (j / 3);
-                if (boxes[boxIndex].find(board[i][j]) != boxes[boxIndex].end()) return false;
-                boxes[boxIndex].insert(board[i][j]);
+                        if (k != j && board[i][k] == x)
+                            return false;
+                        if (k != i && board[k][j] == x)
+                            return false;
 
-        }}
+                        int boxRow = (i / 3) * 3;
+                        int boxCol = (j / 3) * 3;
+
+                        for (int r = boxRow; r < boxRow + 3; r++) {
+                            for (int c = boxCol; c < boxCol + 3; c++) {
+                                if (r == i && c == j)
+                                    continue;
+                                if (board[r][c] == x)
+                                    return false;
+                            }
+                        }
+                    }
+                }
+            }
+        }
         return true;
     }
 };
