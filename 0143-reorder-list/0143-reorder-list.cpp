@@ -11,48 +11,42 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr) {
-            return;
+        ListNode* slow= head;
+        ListNode* fast= head;
+
+        while( fast and fast->next){
+            slow= slow->next;
+            fast= fast->next->next;
+        }
+        
+        ///reverse the second half
+        ListNode* secondHead= slow->next;
+        slow->next=NULL;
+        ListNode* prev=NULL;
+        while( secondHead){
+            ListNode* temp=secondHead->next;
+            secondHead->next= prev;
+            prev=secondHead;
+            secondHead=temp;
+        }
+        //prev= head now
+        secondHead = prev; 
+         ListNode* first = head;
+        ListNode* second = secondHead;
+//merge
+        while (second) {
+            ListNode* t1 = first->next;
+            ListNode* t2 = second->next;
+
+            first->next = second;
+            second->next = t1;
+
+            first = t1;
+            second = t2;
         }
 
-        // Step 1: Find the midpoint of the list using slow and fast pointers
-        ListNode* slow = head;
-        ListNode* fast = head;
+        
 
-        while (fast->next && fast->next->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
 
-        // Now slow points to the middle of the list
-        ListNode* secondHalf = slow->next;
-        slow->next = nullptr; // Split the list into two halves
-
-        // Step 2: Reverse the second half of the list
-        ListNode* prev = nullptr;
-        ListNode* curr = secondHalf;
-        ListNode* next = nullptr;
-
-        while (curr) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        secondHalf = prev; // Now secondHalf points to the reversed list
-
-        // Step 3: Merge the two halves
-        ListNode* firstHalf = head;
-        while (secondHalf) {
-            ListNode* temp1 = firstHalf->next;
-            ListNode* temp2 = secondHalf->next;
-
-            firstHalf->next = secondHalf;
-            secondHalf->next = temp1;
-
-            firstHalf = temp1;
-            secondHalf = temp2;
-        }
     }
 };
