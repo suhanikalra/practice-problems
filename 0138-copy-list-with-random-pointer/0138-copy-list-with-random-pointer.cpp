@@ -17,22 +17,19 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if (!head) return NULL;
-        
-        for( auto node=head;node!=NULL;node = node->next->next){
+        if( head==NULL)return NULL;
+
+        for( auto node=head;node!=NULL;node=node->next->next){
+            Node* copiedNode= new Node(node->val);
             Node* temp= node->next;
-            auto p= new Node(node->val);
-            node->next=p;
-            p->next= temp;
+            node->next= copiedNode;
+            copiedNode->next= temp;
         }
 
-        for (Node* node = head; node != NULL; node = node->next->next) {
-            if (node->random)
-                node->next->random = node->random->next;
-            else
-                node->next->random = NULL;
+        for( auto node=head;node!=NULL;node=node->next->next){
+            if(node->next and node->random)node->next->random= node->random->next;
+            else node->next->random==NULL;
         }
-
          Node* temp = head;
         Node* newHead = head->next;
 
@@ -45,6 +42,9 @@ public:
         }
 
         return newHead;
+
+
+
 
     }
 };
