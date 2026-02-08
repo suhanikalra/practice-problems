@@ -17,29 +17,34 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        for(auto node=head; node !=nullptr;node= node->next->next ){
-            
-            auto temp = node->next;
-            auto p = new Node(node->val);
-            node->next= p;
+        if (!head) return NULL;
+        
+        for( auto node=head;node!=NULL;node = node->next->next){
+            Node* temp= node->next;
+            auto p= new Node(node->val);
+            node->next=p;
             p->next= temp;
-
         }
 
-        for(auto node=head; node !=nullptr;node= node->next->next ){
-            auto temp= node->random;
-            if(temp != nullptr){node->next->random= temp->next;}
-            else node->next->random=nullptr;
-        }
-auto dummy = new Node(0);
-        auto newHead = dummy;
-        for (auto node = head; node != nullptr; node = node->next) {
-            auto clonedNode = node->next;
-            node->next = clonedNode->next;
-            newHead->next = clonedNode;
-            newHead = clonedNode;
+        for (Node* node = head; node != NULL; node = node->next->next) {
+            if (node->random)
+                node->next->random = node->random->next;
+            else
+                node->next->random = NULL;
         }
 
-        return dummy->next;
+         Node* temp = head;
+        Node* newHead = head->next;
+
+        while (temp) {
+            Node* copy = temp->next;
+            temp->next = copy->next;
+            if (copy->next)
+                copy->next = copy->next->next;
+            temp = temp->next;
+        }
+
+        return newHead;
+
     }
 };
