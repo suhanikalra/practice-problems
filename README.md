@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0762-find-anagram-mappings](https://github.com/suhanikalra/practice-problems/tree/master/0762-find-anagram-mappings) |
+| [0763-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/suhanikalra/practice-problems/tree/master/0782-jewels-and-stones) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/suhanikalra/practice-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
+| [0763-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/suhanikalra/practice-problems/tree/master/0782-jewels-and-stones) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suhanikalra/practice-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/suhanikalra/practice-problems/tree/master/0778-reorganize-string) |
 | [0860-lemonade-change](https://github.com/suhanikalra/practice-problems/tree/master/0860-lemonade-change) |
