@@ -1,36 +1,25 @@
 class Solution {
 public:
-    int maxi = 0;
+    int ans = 0;
 
-    void dfs(TreeNode* root, int dir, int len) {
-        if (root == NULL) return;
+    void dfs(TreeNode* node, bool left, int len) {
+        if (!node) return;
 
-        maxi = max(maxi, len);
+        ans = max(ans, len);
 
-        // dir = 0 → last move was left
-        // dir = 1 → last move was right
-
-        if (root->left) {
-            if (dir == 1)
-                dfs(root->left, 0, len + 1); // zigzag continues
-            else
-                dfs(root->left, 0, 1);       // restart
-        }
-
-        if (root->right) {
-            if (dir == 0)
-                dfs(root->right, 1, len + 1); // zigzag continues
-            else
-                dfs(root->right, 1, 1);       // restart
+        if (left) {
+            dfs(node->right, false, len + 1); 
+            dfs(node->left, true, 1);       
+        } else {
+            dfs(node->left, true, len + 1);  
+            dfs(node->right, false, 1);      
         }
     }
 
     int longestZigZag(TreeNode* root) {
-        if (root == NULL) return 0;
-
-        dfs(root, 0, 0); // assume last move was left
-        dfs(root, 1, 0); // assume last move was right
-
-        return maxi;
+        if (!root) return 0;
+        dfs(root->left, true, 1);
+        dfs(root->right, false, 1);
+        return ans;
     }
 };
