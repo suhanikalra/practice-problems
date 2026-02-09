@@ -28,10 +28,9 @@ ans= max(count,ans);
 }
     int longestZigZag(TreeNode* root) {
         if(!root)return 0;
-        if (root->left)
-            solve(root->left, 0, 1);   // first move left
-        if (root->right)
-            solve(root->right, 1, 1);  
+       
+            solve(root, 0, 0);   // first move left
+       
             return ans;
         
     }
