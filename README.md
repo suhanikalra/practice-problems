@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/suhanikalra/practice-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/suhanikalra/practice-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/suhanikalra/practice-problems/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/suhanikalra/practice-problems/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/suhanikalra/practice-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/suhanikalra/practice-problems/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/suhanikalra/practice-problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/suhanikalra/practice-problems/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/suhanikalra/practice-problems/tree/master/0525-contiguous-array) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suhanikalra/practice-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suhanikalra/practice-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/suhanikalra/practice-problems/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suhanikalra/practice-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/suhanikalra/practice-problems/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/suhanikalra/practice-problems/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suhanikalra/practice-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0763-partition-labels) |
