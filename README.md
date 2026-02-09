@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/suhanikalra/practice-problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1134-shortest-distance-to-target-color](https://github.com/suhanikalra/practice-problems/tree/master/1134-shortest-distance-to-target-color) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/suhanikalra/practice-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1382-balance-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhanikalra/practice-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/suhanikalra/practice-problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/suhanikalra/practice-problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/suhanikalra/practice-problems/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1252-break-a-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/1252-break-a-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/suhanikalra/practice-problems/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suhanikalra/practice-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/suhanikalra/practice-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -1248,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/suhanikalra/practice-problems/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/suhanikalra/practice-problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/suhanikalra/practice-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
