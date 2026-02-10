@@ -6,7 +6,7 @@ public:
       for(int end=0;end<s.size();end++){
         freq[s[end]]++;
         max_freq = max(max_freq, freq[s[end]]);
-       if (end - start + 1 - max_freq > k){
+       while (end - start + 1 - max_freq > k){
           
         freq[s[start]]--;
         start++;
