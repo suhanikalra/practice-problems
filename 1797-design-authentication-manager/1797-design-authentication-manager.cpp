@@ -1,6 +1,7 @@
 class AuthenticationManager {
 public:
 map<string,int>Tokenizer;//token,time
+priority_queue<pair<int, string>, vector<pair<int, string>>,greater<pair<int, string>>> pq;
 int ttl=0;
     AuthenticationManager(int timeToLive) {
         ttl= timeToLive;
@@ -10,27 +11,27 @@ int ttl=0;
     
     void generate(string tokenId, int currentTime) {
        Tokenizer[tokenId]=currentTime+ttl;
+       pq.push({Tokenizer[tokenId],tokenId});
     }
     
     void renew(string tokenId, int currentTime) {
         if( Tokenizer.find(tokenId)!=Tokenizer.end()){
             if( currentTime<Tokenizer[tokenId]){
                 Tokenizer[tokenId]=currentTime+ttl;
+                pq.push({Tokenizer[tokenId], tokenId});
             }
         }
     }
     
     int countUnexpiredTokens(int currentTime) {
-        int count=0;
-        for (auto it = Tokenizer.begin(); it != Tokenizer.end(); ) {
-            if (it->second <= currentTime) {
-                it = Tokenizer.erase(it); 
-            } else {
-                count++;
-                ++it;
-            }
+        while (!pq.empty() && pq.top().first <= currentTime) {
+            auto cur = pq.top();
+            pq.pop();
+            if (cur.first == Tokenizer[cur.second])
+                Tokenizer.erase(cur.second);
         }
-        return count;
+    return Tokenizer.size();
+        
     }
 };
 
