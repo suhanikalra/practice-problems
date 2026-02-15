@@ -1,7 +1,6 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        set<pair<int,int>> vis;
         queue<pair<pair<int,int>, int>> q;
         int fresh = 0;
 
@@ -11,7 +10,6 @@ public:
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 2) {
                     q.push({{i, j}, 0});
-                    vis.insert({i, j});
                 }
                 if (grid[i][j] == 1) fresh++;
             }
@@ -22,10 +20,13 @@ public:
         int ans = 0;
 
         while (!q.empty()) {
-            auto ele = q.front(); q.pop();
+            auto ele = q.front(); 
+            q.pop();
+
             int x = ele.first.first;
             int y = ele.first.second;
             int dist = ele.second;
+
             ans = max(ans, dist);
 
             for (int i = 0; i < 4; i++) {
@@ -34,11 +35,9 @@ public:
 
                 if (newx >= 0 && newx < n &&
                     newy >= 0 && newy < m &&
-                    grid[newx][newy] == 1 &&
-                    vis.find({newx, newy}) == vis.end()) {
+                    grid[newx][newy] == 1) {
 
                     grid[newx][newy] = 2;
-                    vis.insert({newx, newy});
                     fresh--;
                     q.push({{newx, newy}, dist + 1});
                 }
