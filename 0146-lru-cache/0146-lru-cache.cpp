@@ -1,79 +1,81 @@
-class Node{
-    public: 
-    int val;
-    int key;
-    Node* next;
+class Node {
+public:
+    int key, val;
     Node* prev;
-   
+    Node* next;
+
+    Node(int k, int v) {
+        key = k;
+        val = v;
+        prev = next = NULL;
+    }
 };
+
 class LRUCache {
 public:
-
-unordered_map<int,Node*>cache;//key, address;
-int capacity;
-Node* head;
-Node* tail;
-
- public: void addNode(Node* node){
-Node* nextNode= head->next;
-head->next= node;
-node->prev= head;
-node->next= nextNode;
-nextNode->prev=node;
- }
-  public: void delNode( Node* node){
-    node->prev->next= node->next;
-    node->next->prev= node->prev;
-  }
-
+    int cap;
+    unordered_map<int, Node*> cacheMap;
+    Node* head;
+    Node* tail;
 
     LRUCache(int capacity) {
-        this->capacity = capacity;
-         head=new Node();
-         tail= new Node();
-        head->next= tail;
-        tail->next=NULL;
-        head->prev= NULL;
-        tail->prev= head;
+        cap = capacity;
+
+        head = new Node(-1, -1);  // dummy head
+        tail = new Node(-1, -1);  // dummy tail
+
+        head->next = tail;
+        tail->prev = head;
     }
-    
+
+    void addNode(Node* node) {
+        node->next = head->next;
+        node->prev = head;
+
+        head->next->prev = node;
+        head->next = node;
+    }
+
+    void deleteNode(Node* node) {
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+    }
+
     int get(int key) {
-        if(cache.find(key)!= cache.end()){
-       
-        delNode(cache[key]);
-         addNode(cache[key]);
-        return cache[key]->val;}
-        return -1;
-        
-    }
-    
-    void put(int key, int value) {
-   
-    if (cache.find(key) != cache.end()) {
-        Node* node = cache[key];
-        node->val = value;
-        delNode(node);
+        if (cacheMap.find(key) == cacheMap.end())
+            return -1;
+
+        Node* node = cacheMap[key];
+        int ans = node->val;
+
+        deleteNode(node);
         addNode(node);
-        return;
+
+        return ans;
     }
 
- 
-    if (cache.size() == capacity) {
-        Node* lru = tail->prev;       
-        delNode(lru);
-        cache.erase(lru->key);
-        delete lru;
+    void put(int key, int value) {
+
+        if (cacheMap.find(key) != cacheMap.end()) {
+            Node* node = cacheMap[key];
+            node->val = value;
+
+            deleteNode(node);
+            addNode(node);
+        }
+        else {
+            if (cacheMap.size() == cap) {
+                Node* lru = tail->prev;
+                cacheMap.erase(lru->key);
+                deleteNode(lru);
+                delete lru;
+            }
+
+            Node* newNode = new Node(key, value);
+            cacheMap[key] = newNode;
+            addNode(newNode);
+        }
     }
-
-  
-    Node* newNode = new Node();
-    newNode->key = key;
-    newNode->val = value;
-
-    addNode(newNode);
-    cache[key] = newNode;
-}
-
 };
 
 /**
