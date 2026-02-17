@@ -7,10 +7,10 @@ public:
             ans.push_back(nums);
         }
         for( int index=i;index<nums.size();index++){
-            auto temp= nums;
+            
             swap(nums[i],nums[index]);
             solve(i+1,nums);
-            nums=temp;
+            swap(nums[i],nums[index]);
 
         }
     }
