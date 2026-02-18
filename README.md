@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhanikalra/practice-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suhanikalra/practice-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/suhanikalra/practice-problems/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/suhanikalra/practice-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/suhanikalra/practice-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suhanikalra/practice-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/suhanikalra/practice-problems/tree/master/0229-majority-element-ii) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0179-largest-number](https://github.com/suhanikalra/practice-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suhanikalra/practice-problems/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/suhanikalra/practice-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/suhanikalra/practice-problems/tree/master/0243-shortest-word-distance) |
@@ -1577,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suhanikalra/practice-problems/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/suhanikalra/practice-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 ## Shortest Path
@@ -1606,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/suhanikalra/practice-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/suhanikalra/practice-problems/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/suhanikalra/practice-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
