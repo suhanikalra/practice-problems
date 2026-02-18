@@ -27,7 +27,7 @@ int ttl=0;
         while (!pq.empty() && pq.top().first <= currentTime) {
             auto cur = pq.top();
             pq.pop();
-            if (cur.first == Tokenizer[cur.second])
+            if (Tokenizer.find(cur.second)!=Tokenizer.end() and Tokenizer[cur.second]<=currentTime)
                 Tokenizer.erase(cur.second);
         }
     return Tokenizer.size();
