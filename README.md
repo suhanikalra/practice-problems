@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suhanikalra/practice-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0370-range-addition](https://github.com/suhanikalra/practice-problems/tree/master/0370-range-addition) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suhanikalra/practice-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/suhanikalra/practice-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/suhanikalra/practice-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suhanikalra/practice-problems/tree/master/0435-non-overlapping-intervals) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suhanikalra/practice-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/suhanikalra/practice-problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/suhanikalra/practice-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhanikalra/practice-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0366-find-leaves-of-binary-tree) |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/suhanikalra/practice-problems/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
@@ -1323,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/suhanikalra/practice-problems/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/suhanikalra/practice-problems/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/suhanikalra/practice-problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/suhanikalra/practice-problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/suhanikalra/practice-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1575,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/suhanikalra/practice-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/suhanikalra/practice-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/suhanikalra/practice-problems/tree/master/1325-path-with-maximum-probability) |
@@ -1695,12 +1700,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/suhanikalra/practice-problems/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/suhanikalra/practice-problems/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
