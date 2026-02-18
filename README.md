@@ -867,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/suhanikalra/practice-problems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0179-largest-number](https://github.com/suhanikalra/practice-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suhanikalra/practice-problems/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/suhanikalra/practice-problems/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/suhanikalra/practice-problems/tree/master/0243-shortest-word-distance) |
 | [0245-shortest-word-distance-iii](https://github.com/suhanikalra/practice-problems/tree/master/0245-shortest-word-distance-iii) |
@@ -1246,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suhanikalra/practice-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suhanikalra/practice-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhanikalra/practice-problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1575,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suhanikalra/practice-problems/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 ## Shortest Path
 |  |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/suhanikalra/practice-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/suhanikalra/practice-problems/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
