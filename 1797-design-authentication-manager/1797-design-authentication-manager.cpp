@@ -13,14 +13,13 @@ int ttl=0;
     }
     
     void renew(string tokenId, int currentTime) {
-        if( mp.find( tokenId)==mp.end())return;
+        if( mp.find( tokenId)!=mp.end() and currentTime<mp[tokenId])
         mp[tokenId]= currentTime+ttl;
         pq.push({mp[tokenId],tokenId});
         
     }
     
     int countUnexpiredTokens(int currentTime) {
-        if( pq.empty())return 0;
         while( !pq.empty() and pq.top().first<=currentTime){
 
             auto a= pq.top();
