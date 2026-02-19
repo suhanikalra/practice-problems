@@ -1,61 +1,65 @@
 class TrieNode {
 public:
-    bool stop = false;
     TrieNode* children[26];
-
+    bool isEnd = false;
     TrieNode() {
-        for (int i = 0; i < 26; i++) children[i] = nullptr;
+        for (int i = 0; i < 26; i++) {
+            children[i] = NULL;
+        }
     }
 };
 
 class WordDictionary {
 public:
-    TrieNode* trie;
+    TrieNode* root;
     int largest = 0;
-
-    WordDictionary() {
-        trie = new TrieNode();
-    }
+    WordDictionary() { root = new TrieNode(); }
 
     void addWord(string word) {
-        TrieNode* node = trie;
-        for (char c : word) {
-            int idx = c - 'a';
-            if (node->children[idx] == nullptr) {
-                node->children[idx] = new TrieNode();
+        TrieNode* node = root;
+
+        for (auto c : word) {
+            if (node->children[c - 'a'] == NULL) {
+                node->children[c - 'a'] = new TrieNode();
             }
-            node = node->children[idx];
+            node = node->children[c - 'a'];
         }
-        node->stop = true;
+        node->isEnd = true;
         largest = max(largest, (int)word.size());
     }
+    bool solve(int i, string word, TrieNode* node) {
+        if (!node)
+            return false;
+        if (i == word.size())
+            return node->isEnd;
 
-    bool h(TrieNode* node, int idx, string& word) {
-
-    if (!node) return false;  
-
-    if (idx == word.size())    
-        return node->stop;
-
-    char c = word[idx];
-
-    if (c == '.') {
-        for (int j = 0; j < 26; j++) {
-            if (node->children[j] != nullptr) {
-                if (h(node->children[j], idx + 1, word))
+        char c = word[i];
+        if (c == '.') {
+            for (int j = 0; j < 26; j++) {
+                if (solve(i + 1, word, node->children[j]))
                     return true;
             }
+            return false;
         }
-        return false;
-    } 
+    
+
     else {
-        return h(node->children[c - 'a'], idx + 1, word);
+        return solve(i + 1, word, node->children[word[i] - 'a']);
     }
+
 }
-
-
+    
     bool search(string word) {
-        if ((int)word.size() > largest) return false; 
-        return h(trie, 0, word);
-    }
-};
+    if (word.size() > largest)
+        return false;
+    return solve(0, word, root);
+}
+}
+;
+
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary* obj = new WordDictionary();
+ * obj->addWord(word);
+ * bool param_2 = obj->search(word);
+ */
