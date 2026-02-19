@@ -1,82 +1,75 @@
-class Node{
-    public: 
-
-    int key,val;
+class Node {
+public:
     Node* next;
     Node* prev;
+    int key, val;
 
-    Node(int k,int v){
-        key= k;
-        val=v;
-        next=NULL;
-        prev=NULL;
+    Node(int k, int v) {
+        key = k;
+        val = v;
+        next = NULL;
+        prev = NULL;
     }
 };
 
 class LRUCache {
 public:
+    unordered_map<int, Node*> mp;
+    int cap;
+    Node* head;
+    Node* tail;
 
-unordered_map<int, Node*>cacheMap;
-int cap;
-Node* head; Node* tail;
+    void insertAtHead(Node* node) {
+        node->next = head->next;
+        node->next->prev = node;
+        node->prev = head;
+        head->next = node;
+    }
 
-void insertAtHead(Node* node ){
-    Node* temp= head->next;
-    node->next = temp; 
-    head->next= node;
-    temp->prev=node;
-    node->prev= head;
-
-}
-
-void deleteNode(Node* node){
-    node->prev->next=node->next;
-    node->next->prev= node->prev;
-}
+    void deleteNode(Node* node) {
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+    }
 
     LRUCache(int capacity) {
-        cap= capacity;
-        head= new Node(-1,-1);
-        tail= new Node(-1,-1);
-        head->next= tail;
-        head->prev=NULL;
-        tail->next=NULL;
-        tail->prev=head;
-
+        cap = capacity;
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
+        head->next = tail;
+        tail->prev = head;
     }
-    
+
     int get(int key) {
-        if (cacheMap.find(key) == cacheMap.end())
+        if (mp.find(key) == mp.end())
             return -1;
 
-        Node* node = cacheMap[key];
-        int ans = node->val;
-
+        auto node = mp[key];
         deleteNode(node);
         insertAtHead(node);
-
-        return ans;
-        
+        return node->val;
     }
-    
+
     void put(int key, int value) {
-        if (cacheMap.find(key) != cacheMap.end()) {
-            Node* node = cacheMap[key];
+
+        if (mp.find(key) != mp.end()) {
+
+            Node* node = mp[key];
             node->val = value;
 
             deleteNode(node);
             insertAtHead(node);
-        }
-        else {
-            if (cacheMap.size() == cap) {
+        } else {
+
+            if (mp.size() == cap) {
+
                 Node* lru = tail->prev;
-                cacheMap.erase(lru->key);
+                mp.erase(lru->key);
                 deleteNode(lru);
                 delete lru;
             }
 
             Node* newNode = new Node(key, value);
-            cacheMap[key] = newNode;
+            mp[key] = newNode;
             insertAtHead(newNode);
         }
     }
