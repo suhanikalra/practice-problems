@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suhanikalra/practice-problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/suhanikalra/practice-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/suhanikalra/practice-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/suhanikalra/practice-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/suhanikalra/practice-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suhanikalra/practice-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/suhanikalra/practice-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/suhanikalra/practice-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1444,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/suhanikalra/practice-problems/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/suhanikalra/practice-problems/tree/master/1160-letter-tile-possibilities) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
@@ -1551,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/suhanikalra/practice-problems/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
@@ -1663,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suhanikalra/practice-problems/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suhanikalra/practice-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
