@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/suhanikalra/practice-problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/suhanikalra/practice-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/suhanikalra/practice-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/suhanikalra/practice-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/suhanikalra/practice-problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/suhanikalra/practice-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/suhanikalra/practice-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/suhanikalra/practice-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/suhanikalra/practice-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suhanikalra/practice-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1909-buildings-with-an-ocean-view](https://github.com/suhanikalra/practice-problems/tree/master/1909-buildings-with-an-ocean-view) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/suhanikalra/practice-problems/tree/master/0800-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/suhanikalra/practice-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/suhanikalra/practice-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhanikalra/practice-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suhanikalra/practice-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
