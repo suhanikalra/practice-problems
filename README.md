@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/suhanikalra/practice-problems/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/suhanikalra/practice-problems/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1122-relative-sort-array](https://github.com/suhanikalra/practice-problems/tree/master/1122-relative-sort-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/suhanikalra/practice-problems/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1160-letter-tile-possibilities](https://github.com/suhanikalra/practice-problems/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/suhanikalra/practice-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/suhanikalra/practice-problems/tree/master/1073-number-of-enclaves) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/suhanikalra/practice-problems/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/suhanikalra/practice-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1122-relative-sort-array](https://github.com/suhanikalra/practice-problems/tree/master/1122-relative-sort-array) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/suhanikalra/practice-problems/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1134-shortest-distance-to-target-color](https://github.com/suhanikalra/practice-problems/tree/master/1134-shortest-distance-to-target-color) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/suhanikalra/practice-problems/tree/master/1018-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/suhanikalra/practice-problems/tree/master/1122-relative-sort-array) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/suhanikalra/practice-problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/suhanikalra/practice-problems/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suhanikalra/practice-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1694,6 +1697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/suhanikalra/practice-problems/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/suhanikalra/practice-problems/tree/master/0948-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/suhanikalra/practice-problems/tree/master/1122-relative-sort-array) |
 ## Monotonic Queue
 |  |
 | ------- |
