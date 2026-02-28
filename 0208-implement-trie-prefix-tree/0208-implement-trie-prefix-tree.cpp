@@ -1,49 +1,54 @@
 class TrieNode{
-public:
-TrieNode* children[26];
-bool stop= false;
-
-TrieNode(){
+    public: 
+    TrieNode* children[26];
+    bool end= false;
+    TrieNode(){
     for (int i = 0; i < 26; i++)
         children[i] = nullptr;
-
 }
-};
 
+};
+    
 class Trie {
 public:
-TrieNode* root;
+TrieNode* trie;
     Trie() {
-        root= new TrieNode();
+       trie= new TrieNode(); 
     }
     
     void insert(string word) {
-        TrieNode* node= root;
-        for( auto c: word){
-        if(node->children[c-'a']==NULL){
-            node->children[c-'a']=new TrieNode();
+        auto node= trie;
+        for(auto w: word ){
+            if( node->children[w-'a']==NULL){
+                node->children[w-'a']=new TrieNode();
+            }
+            node=  node->children[w-'a'];
+            
+            
         }
-        node= node->children[c-'a'];
-        }
-        node->stop= true;
+        node->end= true;
+        
     }
     
     bool search(string word) {
-        TrieNode* node= root;
-        for( auto c: word){
-            if(node->children[c-'a']==NULL)return false;
-             node= node->children[c-'a'];
-
+        auto node= trie;
+        for(auto w: word ){
+            if( node->children[w-'a']==NULL){
+                return false;
+            }
+            node=  node->children[w-'a'];
         }
-        return node->stop;
+        return node->end== true;
+        
     }
     
     bool startsWith(string prefix) {
-        TrieNode* node= root;
-        for( auto c: prefix){
-            if(node->children[c-'a']==NULL)return false;
-             node= node->children[c-'a'];
-
+        auto node= trie;
+        for(auto w: prefix ){
+            if( node->children[w-'a']==NULL){
+                return false;
+            }
+            node=  node->children[w-'a'];
         }
         return true;
     }
