@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0582-kill-process](https://github.com/suhanikalra/practice-problems/tree/master/0582-kill-process) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/suhanikalra/practice-problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0694-number-of-distinct-islands](https://github.com/suhanikalra/practice-problems/tree/master/0694-number-of-distinct-islands) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/suhanikalra/practice-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/suhanikalra/practice-problems/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/suhanikalra/practice-problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0763-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/suhanikalra/practice-problems/tree/master/0768-partition-labels) |
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/suhanikalra/practice-problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/suhanikalra/practice-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/suhanikalra/practice-problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/suhanikalra/practice-problems/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/suhanikalra/practice-problems/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
@@ -1622,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/suhanikalra/practice-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/suhanikalra/practice-problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [1397-search-suggestions-system](https://github.com/suhanikalra/practice-problems/tree/master/1397-search-suggestions-system) |
 ## Shortest Path
 |  |
@@ -1654,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
+| [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0707-design-linked-list) |
