@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/suhanikalra/practice-problems/tree/master/0641-design-circular-deque) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suhanikalra/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/suhanikalra/practice-problems/tree/master/0582-kill-process) |
 | [0611-valid-triangle-number](https://github.com/suhanikalra/practice-problems/tree/master/0611-valid-triangle-number) |
+| [0641-design-circular-deque](https://github.com/suhanikalra/practice-problems/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanikalra/practice-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/suhanikalra/practice-problems/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/suhanikalra/practice-problems/tree/master/0648-replace-words) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/suhanikalra/practice-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/suhanikalra/practice-problems/tree/master/0641-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/suhanikalra/practice-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/suhanikalra/practice-problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1661,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/suhanikalra/practice-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
+| [0641-design-circular-deque](https://github.com/suhanikalra/practice-problems/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
