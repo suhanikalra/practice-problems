@@ -1233,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanikalra/practice-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suhanikalra/practice-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/suhanikalra/practice-problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/suhanikalra/practice-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/suhanikalra/practice-problems/tree/master/0402-remove-k-digits) |
@@ -1473,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/suhanikalra/practice-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/suhanikalra/practice-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanikalra/practice-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -1656,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/suhanikalra/practice-problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/suhanikalra/practice-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suhanikalra/practice-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/suhanikalra/practice-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suhanikalra/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/suhanikalra/practice-problems/tree/master/0295-find-median-from-data-stream) |
 | [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
