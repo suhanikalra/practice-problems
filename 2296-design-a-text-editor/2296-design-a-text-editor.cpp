@@ -17,6 +17,25 @@ public:
         }
         return count;
     }
+    string getLast10() {
+    string ans = "";
+    vector<char> buffer;
+
+    int count = 0;
+    while (!left.empty() && count < 10) {
+        buffer.push_back(left.top());
+        left.pop();
+        count++;
+    }
+
+    // rebuild string in correct order
+    for (int i = buffer.size() - 1; i >= 0; i--) {
+        ans += buffer[i];
+        left.push(buffer[i]);  // restore stack
+    }
+
+    return ans;
+}
 
     string cursorLeft(int k) {
         string ans = "";
@@ -27,14 +46,7 @@ public:
             left.pop();
             count++;
         }
-        int ten = 10;
-        stack<char> temp = left;
-        while (!temp.empty() && ten > 0) {
-            ans = temp.top() + ans;
-            temp.pop();
-            ten--;
-        }
-        return ans;
+        return getLast10();
     }
 
     string cursorRight(int k) {
@@ -46,14 +58,7 @@ public:
             right.pop();
             count++;
         }
-        int ten = 10;
-        stack<char> temp = left;
-        while (!temp.empty() && ten > 0) {
-            ans = temp.top() + ans;
-            temp.pop();
-            ten--;
-        }
-        return ans;
+        return getLast10();
     }
 };
 
