@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/suhanikalra/practice-problems/tree/master/1797-design-authentication-manager) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Two Pointers
 |  |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/suhanikalra/practice-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suhanikalra/practice-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suhanikalra/practice-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/suhanikalra/practice-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/suhanikalra/practice-problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/suhanikalra/practice-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/suhanikalra/practice-problems/tree/master/3447-clear-digits) |
@@ -1674,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/suhanikalra/practice-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1797-design-authentication-manager](https://github.com/suhanikalra/practice-problems/tree/master/1797-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/suhanikalra/practice-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/suhanikalra/practice-problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1684,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/suhanikalra/practice-problems/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/suhanikalra/practice-problems/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/suhanikalra/practice-problems/tree/master/1797-design-authentication-manager) |
+| [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
 | [2389-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2389-design-a-text-editor) |
 ## Interactive
 |  |
