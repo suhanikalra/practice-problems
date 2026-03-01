@@ -1,33 +1,42 @@
+
+
 class AuthenticationManager {
 public:
 unordered_map<string,int>mp;
 priority_queue<pair<int, string>, vector<pair<int, string>>,greater<pair<int, string>>> pq;
 int ttl=0;
     AuthenticationManager(int timeToLive) {
-        ttl= timeToLive;
+        ttl=timeToLive;
     }
     
     void generate(string tokenId, int currentTime) {
-        mp[tokenId]=currentTime+ttl;
-        pq.push({mp[tokenId],tokenId});
+       
+            mp[tokenId]=currentTime+ttl;
+            pq.push({mp[tokenId], tokenId});
+    
     }
     
     void renew(string tokenId, int currentTime) {
-        if( mp.find( tokenId)!=mp.end() and currentTime<mp[tokenId])
-        mp[tokenId]= currentTime+ttl;
-        pq.push({mp[tokenId],tokenId});
-        
+        if(mp.find(tokenId)==mp.end()){
+        }
+        else if( mp[tokenId]>currentTime){
+            mp[tokenId]=currentTime+ttl;
+            pq.push({mp[tokenId], tokenId});
+        }
     }
     
     int countUnexpiredTokens(int currentTime) {
-        
-        while( !pq.empty() and pq.top().first<=currentTime){
-
-            auto a= pq.top();
-              pq.pop();
-            auto time=a.first; auto str= a.second;
-            if( mp.find(a.second)!=mp.end() and mp[a.second]<=currentTime)mp.erase(a.second);
-          
+        while(!pq.empty() and pq.top().first<=currentTime ){
+            auto front= pq.top();
+            auto time= front.first;
+            auto val= front.second;
+            pq.pop();
+            if( mp.find(val)!=mp.end()){
+                if(mp[val]==time){
+                    mp.erase(val);
+                }
+            }
+            
         }
         return mp.size();
     }
