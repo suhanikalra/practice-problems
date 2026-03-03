@@ -1,49 +1,44 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        queue<pair<pair<int,int>, int>> q;
-        int fresh = 0;
-
-        int n = grid.size(), m = grid[0].size();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
-                    q.push({{i, j}, 0});
-                }
-                if (grid[i][j] == 1) fresh++;
-            }
+        queue<pair<int,int>>q;int fresh=0;int count=0;
+       for( int i= 0 ;i<grid.size();i++){
+        for( int j= 0;j<grid[0].size();j++){
+            if(grid[i][j]==1)fresh++;
+            if(grid[i][j]==2)q.push({i,j});
         }
+       } 
+       if( fresh==0)return 0;
+       int dx[]={1,-1,0,0};
+       int dy[]={0,0,-1,1};
 
-        int dx[] = {0, 0, 1, -1};
-        int dy[] = {1, -1, 0, 0};
-        int ans = 0;
+       while( !q.empty()){
+        int size= q.size();
+        bool flag= false;
+        for(int i = 0; i < size; i++) {
+                auto [x, y] = q.front();
+                q.pop();
+        
+        for( int i=0;i<4;i++){
+            auto newx= x+dx[i];
+            auto newy= y+dy[i];
 
-        while (!q.empty()) {
-            auto ele = q.front(); 
-            q.pop();
-
-            int x = ele.first.first;
-            int y = ele.first.second;
-            int dist = ele.second;
-
-            ans = max(ans, dist);
-
-            for (int i = 0; i < 4; i++) {
-                int newx = x + dx[i];
-                int newy = y + dy[i];
-
-                if (newx >= 0 && newx < n &&
-                    newy >= 0 && newy < m &&
-                    grid[newx][newy] == 1) {
-
-                    grid[newx][newy] = 2;
-                    fresh--;
-                    q.push({{newx, newy}, dist + 1});
-                }
+            if(newx>=0 and newy>=0 and newx< grid.size() and newy< grid[0].size() and grid[newx][newy]==1){
+                grid[newx][newy]=2;
+                q.push({newx,newy});
+                fresh--;
+                flag= true;
             }
+            
         }
+        }
+        if(flag)count++;
 
-        return fresh == 0 ? ans : -1;
+        
+       }
+       if(fresh==0)return count;
+       return -1;
+
+
     }
 };
