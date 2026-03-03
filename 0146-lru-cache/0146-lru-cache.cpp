@@ -60,6 +60,7 @@ public:
             auto node= tail->prev;
             cache.erase(node->key);
             deleteNode(node);
+            delete node;
             
 
         }
