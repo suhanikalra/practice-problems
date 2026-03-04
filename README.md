@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/suhanikalra/practice-problems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/suhanikalra/practice-problems/tree/master/0953-reverse-only-letters) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/suhanikalra/practice-problems/tree/master/0986-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/suhanikalra/practice-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/suhanikalra/practice-problems/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/suhanikalra/practice-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-delete-columns-to-make-sorted](https://github.com/suhanikalra/practice-problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [0985-bag-of-tokens](https://github.com/suhanikalra/practice-problems/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/suhanikalra/practice-problems/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/suhanikalra/practice-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/suhanikalra/practice-problems/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/suhanikalra/practice-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -1793,4 +1795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/suhanikalra/practice-problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/suhanikalra/practice-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/suhanikalra/practice-problems/tree/master/0785-is-graph-bipartite) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/suhanikalra/practice-problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
