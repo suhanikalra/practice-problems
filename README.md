@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/suhanikalra/practice-problems/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0641-design-circular-deque](https://github.com/suhanikalra/practice-problems/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/suhanikalra/practice-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/suhanikalra/practice-problems/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0694-number-of-distinct-islands](https://github.com/suhanikalra/practice-problems/tree/master/0694-number-of-distinct-islands) |
+| [0705-design-hashset](https://github.com/suhanikalra/practice-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/suhanikalra/practice-problems/tree/master/0734-sentence-similarity) |
 | [0762-find-anagram-mappings](https://github.com/suhanikalra/practice-problems/tree/master/0762-find-anagram-mappings) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/suhanikalra/practice-problems/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/suhanikalra/practice-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/suhanikalra/practice-problems/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/suhanikalra/practice-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/suhanikalra/practice-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suhanikalra/practice-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1545,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/suhanikalra/practice-problems/tree/master/0694-number-of-distinct-islands) |
+| [0705-design-hashset](https://github.com/suhanikalra/practice-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 ## Quickselect
 |  |
@@ -1671,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/suhanikalra/practice-problems/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/suhanikalra/practice-problems/tree/master/0676-implement-magic-dictionary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suhanikalra/practice-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/suhanikalra/practice-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suhanikalra/practice-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/suhanikalra/practice-problems/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/suhanikalra/practice-problems/tree/master/0981-time-based-key-value-store) |
