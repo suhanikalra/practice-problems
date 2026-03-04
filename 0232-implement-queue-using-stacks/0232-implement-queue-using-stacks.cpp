@@ -11,31 +11,32 @@ stack<int> st1,st2;
     }
     
     int pop() {
-      if( st2.empty()){
-        while( !st1.empty()){
-            st2.push(st1.top());
-            st1.pop();
+        if( st2.empty()){
+            while(!st1.empty()){
+                st2.push(st1.top());
+                st1.pop();
         }
-      }
-      auto ans=st2.top();
-      st2.pop();
-      return ans;
+        }
+        if(!st2.empty()){auto ans= st2.top();st2.pop();return ans;}
+    
+    return -1;
     }
     
     int peek() {
         if( st2.empty()){
-        while( !st1.empty()){
-            st2.push(st1.top());
-            st1.pop();
+            while(!st1.empty()){
+                st2.push(st1.top());
+                st1.pop();
         }
-      }
-      auto ans=st2.top();
-      
-      return ans;
+        }
+        if(!st2.empty()){auto ans= st2.top();return ans;}
+        
+    
+    return -1;
     }
     
     bool empty() {
-       return st1.empty() && st2.empty();
+        return st1.empty() and st2.empty();
     }
 };
 
