@@ -4,7 +4,7 @@ bool solve( int i,int j,string &s, string &p, vector<vector<int>>&dp ){
     if (j == p.size()) return i == s.size();
     if (i == s.size()) {
             while (j < p.size() && p[j] == '*') j++;
-            return j == p.size();
+            return dp[i][j] = (j == p.size());
         }  
     if(dp[i][j]!=-1)return dp[i][j]; 
 
