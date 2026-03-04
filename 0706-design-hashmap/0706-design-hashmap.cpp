@@ -1,64 +1,81 @@
+class Node{
+public:
+    Node* next;
+    Node* prev;
+    int key;
+    int val;
+
+    Node(int k,int v){
+        key = k;
+        val = v;
+        next = NULL;
+        prev = NULL;
+    }
+};
+
 class MyHashMap {
 public:
-    static const int MOD = 1009;
-    struct Node {
-        int key, val;
-        Node* next;
-        Node(int k, int v) : key(k), val(v), next(NULL) {}
-    };
-
     vector<Node*> table;
 
-    MyHashMap() { table.assign(MOD, nullptr); }
-    int hash(int key) { return key % MOD; }
-
+    MyHashMap() {
+        table.resize(1000,NULL);
+    }
+    
     void put(int key, int value) {
-        int idx = key % MOD;
-        Node* row = table[key % MOD];
-        Node* curr = row;
-        while (curr) {
-            if (curr->key == key) {
-                curr->val = value;
+        int modval = key % 1000;
+
+        Node* node = table[modval];
+
+        while(node){
+            if(node->key == key){
+                node->val = value;
                 return;
             }
-            curr = curr->next;
+            node = node->next;
         }
 
-        Node* node = new Node(key, value);
-        node->next = table[idx];
-        table[idx] = node;
+        Node* newNode = new Node(key,value);
+        newNode->next = table[modval];
+
+        if(table[modval])
+            table[modval]->prev = newNode;
+
+        table[modval] = newNode;
     }
-
+    
     int get(int key) {
-        Node* row = table[key % MOD];
-        Node* curr = row;
-        while (curr) {
-            if (curr->key == key) {
-                return curr->val;
-            }
-            curr = curr->next;
+        int modval = key % 1000;
+        Node* node = table[modval];
+
+        while(node){
+            if(node->key == key)
+                return node->val;
+            node = node->next;
         }
+
         return -1;
     }
-
+    
     void remove(int key) {
-        int idx = key % MOD;
-        Node* curr = table[idx];
-        Node* prev = nullptr;
+        int modval = key % 1000;
+        Node* node = table[modval];
 
-        while (curr) {
-            if (curr->key == key) {
-                if (prev == nullptr) {
-                    table[idx] = curr->next;
-                } else {
+        while(node){
+            if(node->key == key){
 
-                    prev->next = curr->next;
-                }
-                delete curr;
+                if(node->prev)
+                    node->prev->next = node->next;
+                else
+                    table[modval] = node->next;
+
+                if(node->next)
+                    node->next->prev = node->prev;
+
+                delete node;
                 return;
             }
-            prev = curr;
-            curr = curr->next;
+
+            node = node->next;
         }
     }
 };
