@@ -4,8 +4,10 @@ vector<vector<int>> res;
 
 void solve(int i, vector<int>& candidates, int target,vector<int>ans){
     
-    if(i==candidates.size() and target==0){res.push_back(ans);return;}
-    if( i== candidates.size())return;
+    if(target == 0){
+        res.push_back(ans);
+        return;
+    }    if( i== candidates.size())return;
 
     if(candidates[i]<=target){
         ans.push_back(candidates[i]);
