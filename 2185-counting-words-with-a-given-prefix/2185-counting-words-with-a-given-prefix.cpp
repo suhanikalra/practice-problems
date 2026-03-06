@@ -3,13 +3,9 @@ public:
     int prefixCount(vector<string>& words, string pref) {
         int count=0;
         for( int i=0;i<words.size();i++){
+            auto word= words[i];
             bool flag= true;
-            if(words[i].size()<pref.size())continue;
-            for(int j=0;j<pref.size();j++){
-                if(words[i][j]!=pref[j])flag=false;
-
-            }
-            if(flag)count++;
+            if(word.find(pref)==0)count++;
         }
         return count;
 
