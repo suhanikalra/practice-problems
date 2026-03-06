@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/suhanikalra/practice-problems/tree/master/2075-brightest-position-on-street) |
 | [2104-sum-of-subarray-ranges](https://github.com/suhanikalra/practice-problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhanikalra/practice-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suhanikalra/practice-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/suhanikalra/practice-problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/suhanikalra/practice-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suhanikalra/practice-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/suhanikalra/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/suhanikalra/practice-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2296-design-a-text-editor](https://github.com/suhanikalra/practice-problems/tree/master/2296-design-a-text-editor) |
@@ -1550,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/suhanikalra/practice-problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/suhanikalra/practice-problems/tree/master/0812-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suhanikalra/practice-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
